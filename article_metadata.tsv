@@ -1,1599 +1,6364 @@
 title	count
-1973 oil crisis	11
-2	19
-2001: A Space Odyssey (film)	13
-2010 United States Census	18
-2012 Summer Olympics	11
-2015 United Nations Climate Change Conference	11
-2019–20 coronavirus pandemic	18
-2021 storming of the United States Capitol	17
-3D printing	18
-AIDS	22
-ARPANET	17
-ASCII	19
-Aaron Swartz	16
-Abraham Lincoln	32
-Abraham Maslow	12
-Academy Award	14
-Achaemenid Empire	11
-Ad hominem	19
-Ada Lovelace	18
-Adam Smith	12
-Adolf Hitler	34
-Advanced Encryption Standard	14
-Advertising	14
-Aesthetics	11
-Affiliate marketing	28
-Afghanistan	20
-Africa	31
-African American	14
-African National Congress	11
-Age of Enlightenment	23
-Agile software development	32
-Agriculture	11
-Ajax (programming)	23
-Al-Qaeda	15
-Alabama	12
-Alan Turing	24
-Albania	13
-Albert Camus	13
-Albert Einstein	47
-Aldous Huxley	15
-Alexander the Great	15
-Alfred Hitchcock	20
-Algeria	15
-Algorithm	22
-Alice's Adventures in Wonderland	11
-All rights reserved	22
-All your base are belong to us	11
-Allegory of the Cave	11
-Almond	11
-Aluminium	13
-Alzheimer's disease	18
-Amateur radio	23
-Amazon Kindle	12
-Amazon.com	12
-American Broadcasting Company	11
-American Civil War	37
-American Revolution	12
-American Revolutionary War	18
-American football	12
-American wire gauge	11
-Amino acid	14
-Amsterdam	17
-An Inconvenient Truth	12
-Ancient Greek	17
-Andrew Jackson	11
-Android (operating system)	42
-Andy Warhol	14
-Angola	14
-Animal	14
-Animation	11
-Anime	13
-Anonymous (group)	15
-Antarctica	17
-Anti-Counterfeiting Trade Agreement	11
-Antioxidant	19
-Antisemitism	12
-Anxiety	18
-Apollo 11	11
-Apple	16
-Apple Inc.	11
-Application programming interface	32
-Application software	12
-April Fools' Day	16
-Arab Spring	15
-Arabic	13
-Arabic language	21
-Architecture	17
-Arduino	11
-Argentina	25
-Aristotle	24
-Arizona	17
-Arkansas	12
-Armenia	18
-Armenian Genocide	15
-Arnold Schwarzenegger	13
-Art	12
-Art Nouveau	17
-Arthur C. Clarke	11
-Arthur Schopenhauer	14
-Artificial general intelligence	12
-Artificial intelligence	44
-Artificial neural network	16
-Asia	26
-Asperger syndrome	15
-Association football	23
-Atheism	16
-Atlanta	12
-Atlantic Ocean	21
-Atom	11
-Atomic bombings of Hiroshima and Nagasaki	13
-Attack on Pearl Harbor	11
-Audrey Hepburn	11
-Augmented reality	27
-Augustine of Hippo	16
-Australia	85
-Austria	33
-Author	14
-Autism	14
+.NET Framework	15
+1	18
+1080p	14
+11	15
+15 minutes of fame	12
+1953 Iranian coup d'état	13
+1960s	13
+1973 oil crisis	24
+2	34
+2000	12
+2001	13
+2001: A Space Odyssey (film)	25
+2003 invasion of Iraq	21
+2004 Indian Ocean earthquake	11
+2005	13
+2007	13
+2008 Mumbai attacks	11
+2010 Haiti earthquake	17
+2010 United States Census	45
+2011 Tōhoku earthquake and tsunami	26
+2012	11
+2012 Aurora shooting	12
+2012 Summer Olympics	18
+2012 phenomenon	24
+2013 Savar building collapse	12
+2015 United Nations Climate Change Conference	15
+2016 United States presidential election	15
+2019–20 coronavirus pandemic	33
+2021 storming of the United States Capitol	27
+20th Century Fox	17
+20th century	11
+24 (TV series)	11
+27 Club	12
+3-D Secure	11
+30 St Mary Axe	11
+300 (film)	13
+3D printing	45
+3GPP Long Term Evolution	12
+401(k)	12
+420 (cannabis culture)	14
+4G	13
+4K resolution	18
+4chan	16
+5 Whys	19
+5G	22
+720p	12
+A	18
+A Christmas Carol	27
+A Clockwork Orange (film)	13
+A Midsummer Night's Dream	14
+A Song of Ice and Fire	23
+A picture is worth a thousand words	11
+A. R. Rahman	11
+ABBA	14
+ACID	25
+AIDS	48
+AJAX	17
+AK-47	14
+ANSI escape code	11
+API	19
+ARM architecture	17
+ARPANET	26
+ASCII	40
+AT&T	11
+Aaron	12
+Aaron Copland	13
+Aaron Swartz	25
+Abiogenesis	23
+Abolitionism	11
+Abolitionism in the United States	11
+Abortion	19
+Abraham	18
+Abraham Joshua Heschel	11
+Abraham Lincoln	63
+Abraham Maslow	26
+Abrahamic religions	15
+Absinthe	11
+Abstract syntax tree	15
+Abu Dhabi	12
+Abuse	11
+Academy Award	24
+Academy Award for Best Picture	15
+Academy Awards	22
+Accelerometer	13
+Accessibility	13
+Account executive	17
+Accountant	12
+Acetylcholine	12
+Achaemenid Empire	17
+Acronym	12
+Acropolis of Athens	12
+Action film	11
+Active Directory	17
+Active listening	11
+Actor	22
+Actor model	17
+Acupuncture	20
+Ad hominem	44
+AdSense	11
+Ada Lovelace	38
+Adam	13
+Adam Curtis	11
+Adam Smith	27
+Adam and Eve	12
+Addiction	15
+Address Resolution Protocol	11
+Adele	15
+Aden	12
+Adenosine triphosphate	20
+Adobe Flash	21
+Adobe Photoshop	22
+Adolescence	13
+Adolf Eichmann	12
+Adolf Hitler	62
+Adriatic Sea	11
+Advanced Audio Coding	14
+Advanced Encryption Standard	47
+Advanced Vector Extensions	12
+Advent	16
+Advertising	29
+Aegean Sea	15
+Aerosmith	17
+Aesthetics	19
+Affiliate marketing	53
+Afghanistan	37
+Africa	67
+African American	30
+African Americans	15
+African National Congress	18
+African Union	12
+African-American	14
+African-American Civil Rights Movement (1955–1968)	11
+Afrikaans	15
+Agape	12
+Agatha Christie	25
+Age of Enlightenment	45
+Age of majority	11
+Agent Orange	20
+Aggregator	26
+Agile software development	73
+Agnosticism	17
+Agra	11
+Agriculture	29
+Ahimsa	14
+Aikido	11
+Ainu people	13
+Air conditioning	22
+Airbnb	12
+Airbus A380	11
+Aircraft carrier	11
+Airport	14
+Ajax (programming)	42
+Akihabara	11
+Akshay Kumar	11
+Al Gore	25
+Al Jolson	11
+Al-Qaeda	36
+Alabama	21
+Alan Kay	16
+Alan Moore	24
+Alan Turing	56
+Alan Watts	19
+Alaska	23
+Albania	29
+Albert Camus	20
+Albert Einstein	93
+Albert Schweitzer	15
+Alberta	16
+Albrecht Dürer	14
+Album	18
+Albuquerque, New Mexico	14
+Alcatraz Island	13
+Alcohol	13
+Alcoholism	16
+Aldous Huxley	29
+Aleister Crowley	30
+Aleksandr Solzhenitsyn	17
+Aleksei Losev	11
+Aleppo	14
+Alessandro Volta	12
+Alexander Fleming	13
+Alexander Graham Bell	16
+Alexander Hamilton	23
+Alexander Pope	12
+Alexander Pushkin	11
+Alexander the Great	24
+Alexandre Dumas	16
+Alexandria	11
+Alexandria Ocasio-Cortez	15
+Alexandria, Virginia	13
+Alexei Navalny	11
+Alfred Hitchcock	33
+Alfred Nobel	12
+Alfred North Whitehead	13
+Alfred, Lord Tennyson	12
+Algae	15
+Algeria	29
+Algorithm	37
+Alhambra	15
+Alice Cooper	14
+Alice's Adventures in Wonderland	30
+Alicia Keys	12
+Alien (film)	13
+Aliens (film)	18
+All Saints' Day	13
+All men are created equal	13
+All rights reserved	29
+All your base are belong to us	16
+AllMusic	13
+Allah	24
+Allegory	11
+Allegory of the Cave	20
+Allen Ginsberg	15
+Allergy	19
+Allies of World War II	18
+Almond	19
+Aloe vera	15
+Alpha Centauri	15
+AlphaGo	15
+Alps	12
+Alt-right	15
+Altamont Free Concert	13
+Alternate reality game	16
+Alternating current	17
+Alternative medicine	25
+Aluminium	22
+Alzheimer's disease	43
+Amateur radio	31
+Amazon (company)	17
+Amazon Alexa	16
+Amazon Kindle	23
+Amazon Web Services	16
+Amazon.com	35
+Ambient music	11
+Amdahl's law	14
+Amelia Earhart	13
+American Broadcasting Company	28
+American Civil War	81
+American Dream	17
+American English	14
+American Enterprise Institute	11
+American Gothic	14
+American Idol	16
+American Recovery and Reinvestment Act of 2009	12
+American Revolution	29
+American Revolutionary War	34
+American football	28
+American wire gauge	13
+Americans	19
+Americans with Disabilities Act of 1990	12
+Americas	17
+Amiga	18
+Amino acid	24
+Amish	20
+Ammonia	11
+Amnesia	12
+Amnesty International	19
+Amsterdam	32
+Amtrak	14
+Amy Winehouse	12
+Amygdala	18
+Amyotrophic lateral sclerosis	13
+An Inconvenient Truth	18
+Anagram	11
+Analgesic	11
+Analysis paralysis	18
+Anaphylaxis	12
+Anarchism	15
+Anatolia	11
+Anatomy	12
+Anaïs Nin	16
+Anchoring	22
+Ancient Egypt	19
+Ancient Greece	26
+Ancient Greek	41
+Ancient Greek language	11
+Ancient Rome	26
+Andalusia	11
+Anders Behring Breivik	13
+Andes	13
+Andorra	15
+Andrew Carnegie	16
+Andrew Cuomo	19
+Andrew Jackson	22
+Andrew Johnson	11
+Andrew Lloyd Webber	13
+Android (operating system)	88
+Android version history	11
+Andromeda Galaxy	15
+André Breton	12
+Andy Warhol	36
+Angel	14
+Angela Davis	16
+Angela Merkel	22
+Angelina Jolie	23
+Anger	18
+Angkor Wat	17
+Anglicanism	15
+Angola	31
+Angry Birds	11
+Anguilla	16
+Animal	25
+Animal Farm	21
+Animation	23
+Anime	35
+Animism	13
+Ann Arbor, Michigan	11
+Anne Frank	18
+Anne Lamott	14
+Anno Domini	16
+Anonymous (group)	32
+Ant	14
+Antarctica	31
+Antenna (radio)	12
+Anthony Bourdain	16
+Anthony Hopkins	12
+Anthropic principle	15
+Anthropocene	18
+Anthropology	13
+Anthroposophy	11
+Anti-Counterfeiting Trade Agreement	19
+Anti-inflammatory	15
+Antibacterial	11
+Antikythera mechanism	21
+Antioxidant	31
+Antisemitism	26
+Antisocial personality disorder	14
+Antoine de Saint-Exupéry	22
+Anton Chekhov	14
+Antoni Gaudí	26
+Antonin Scalia	11
+Antonio Gramsci	19
+Antwerp	12
+Anunnaki	11
+Anxiety	36
+Anxiety disorder	16
+Anzac Day	13
+Apache HTTP Server	12
+Apache Hadoop	15
+Apache Subversion	13
+Apartheid	24
+Aphrodite	13
+Apollo	15
+Apollo 11	28
+Apollo 13	18
+Apollo 17	13
+Apollo program	13
+Apophenia	12
+Apoptosis	14
+App Store (iOS)	14
+Apple	23
+Apple Inc.	36
+Application programming interface	89
+Application software	25
+Application-specific integrated circuit	17
+April Fools' Day	33
+Arab League	12
+Arab Spring	38
+Arab world	12
+Arabic	21
+Arabic language	47
+Arc de Triomphe	14
+Arcade game	11
+Archaea	12
+Archaeology	13
+Archetype	17
+Archimedes	16
+Archipelago	14
+Architect	23
+Architecture	30
+Arduino	25
+Aretha Franklin	19
+Argentina	57
+Argument from authority	21
+Argumentum ad populum	14
+Aristotle	57
+Arizona	39
+Ark of the Covenant	12
+Arkansas	19
+Arlington National Cemetery	12
+Arlo Guthrie	11
+Armenia	34
+Armenian Genocide	30
+Armenian language	11
+Armistice Day	15
+Arnold Schoenberg	12
+Arnold Schwarzenegger	32
+Aromatherapy	11
+Arrested Development (TV series)	12
+Arsenal F.C.	15
+Art	30
+Art Deco	21
+Art Nouveau	31
+Artemis	16
+Arthritis	17
+Arthur C. Clarke	24
+Arthur Conan Doyle	32
+Arthur Miller	15
+Arthur Schopenhauer	30
+Artificial general intelligence	20
+Artificial intelligence	104
+Artificial neural network	30
+Artist	17
+Aruba	14
+Arundhati Roy	11
+Asafoetida	11
+Asbestos	13
+Asch conformity experiments	15
+Ash Wednesday	16
+Ashkenazi Jews	15
+Asia	57
+Aspect-oriented programming	13
+Asperger syndrome	31
+Aspirin	12
+Assam	11
+Assembly language	18
+Asset	16
+Associated Press	22
+Association football	48
+Asterism (astronomy)	12
+Asterix	12
+Asteroid	13
+Asthma	15
+Astrology	20
+Astronomical unit	12
+Astronomy	22
+Astroturfing	21
+Atari 2600	14
+Atheism	32
+Athena	18
+Athens	23
+Atherosclerosis	12
+Atlanta	29
+Atlantic Ocean	35
+Atlantic Records	17
+Atlantic slave trade	11
+Atlantis	20
+Atom	17
+Atom (standard)	19
+Atomic bombings of Hiroshima and Nagasaki	29
+Attachment theory	11
+Attack on Pearl Harbor	27
+Attention	14
+Attention deficit hyperactivity disorder	17
+Aubrey de Grey	14
+Auckland	11
+Audre Lorde	18
+Audrey Hepburn	18
+Augmented reality	65
+Augustine of Hippo	44
+Augustus	22
+Auld Lang Syne	16
+Aung San Suu Kyi	12
+Aurochs	12
+Aurora	13
+Aurora (astronomy)	17
+Auschwitz concentration camp	17
+Austin, Texas	27
+Australia	162
+Austria	71
+Austria-Hungary	18
+Author	34
+Authoritarianism	11
+Authorized King James Version	14
+Autism	28
+Auto rickshaw	16
+Automated teller machine	11
 Automatic Position Reporting System	15
-Automobile	14
-Avocado	12
-Ayn Rand	12
-Ayurveda	14
-Azerbaijan	14
-B testing	13
-BBC	33
-BDSM	12
-Baby boomers	13
-Backus–Naur Form	69
-Bacteria	20
-Bangalore	16
-Bangkok	15
-Bangladesh	22
-Bank	15
-Banksy	11
-Barack Obama	45
-Barcelona	21
-Base64	14
-Basketball	12
-Batman	14
-Battle of Waterloo	11
-Bauhaus	13
-Bavaria	14
-Bcrypt	12
-Bechdel test	12
-Begging the question	11
-Beijing	15
-Belarus	17
-Belgium	40
-Benito Mussolini	13
-Benjamin Franklin	28
-Berlin	20
-Bertrand Russell	21
-Betteridge's law of headlines	12
-Bible	30
-Bicycle	11
-Big Bang	16
-Big data	23
-Bill Clinton	24
-Bill Gates	21
-Billboard (magazine)	16
-Billboard 200	13
-Billboard Hot 100	19
-Billie Holiday	12
-Billy Joel	14
-Bipolar disorder	13
-Bird	15
-Bitcoin	47
-Black Death	12
-Black Friday (shopping)	22
-Black Lives Matter	13
-Black Sea	12
-Black pepper	11
-Black swan theory	16
-Blackjack	13
-Blade Runner	13
-Blaise Pascal	11
-Blockchain	28
-Blog	52
-Blood	11
-Bluetooth	12
-Bob Dylan	22
-Body mass index	12
-Bokeh	16
-Bolivia	12
-Bollywood	11
-Book	19
-Book of Genesis	13
-Boris Johnson	13
-Boston	17
-Brahman	11
-Brain	20
-Brand	12
-Brave New World	14
-Brazil	41
-Breaking Bad	13
-Brexit	15
-Brian Eno	13
-Brisbane	12
-Bristol	16
-British Columbia	11
-British Empire	13
-British Raj	13
-Broadway theatre	16
-Bronze Age	13
-Brooklyn	17
-Brooklyn Bridge	11
-Brunei	11
-Buckminster Fuller	19
-Buddhism	27
-Bulgaria	24
-Burundi	12
-Bus	12
-Business	31
-Business intelligence	13
-Butterfly effect	19
-Byzantine Empire	12
-C (programming language)	21
-C Sharp (programming language)	15
-C++	15
-C. S. Lewis	21
-CAPTCHA	35
-COINTELPRO	11
-COVID-19 pandemic	23
-Caffeine	11
-Calcium	11
-California	59
-Call girl	15
-Cambodia	14
-CamelCase	16
-Canada	94
-Cancer	20
-Cannabidiol	24
-Cannabis	11
-Cannabis (drug)	17
-Cannabis sativa	11
-Capital punishment	12
-Capitalism	14
-Carbon	12
-Carbon dioxide	13
-Card security code	19
-Cargo cult	11
-Caribbean	21
-Carl Jung	28
-Carl Linnaeus	14
-Carl Sagan	21
-Cascading Style Sheets	22
-Casino	33
-Casino game	20
-Cat	20
-Catalonia	15
-Catholic Church	29
-Cell (biology)	15
-Central processing unit	16
-Chakra	13
-Chaos theory	13
-Charles Darwin	27
-Charles Dickens	23
-Charlie Chaplin	18
-Chicago	34
-Children's Online Privacy Protection Act	27
-Chile	24
-China	69
-Chinese language	16
-Chiropractic	18
-Christ	18
-Christian	35
-Christianity	41
-Christmas	60
-Christopher Hitchens	13
-Chuck Berry	12
-Church of England	11
-Cicero	11
-Citation needed	16
-Civil Rights Act of 1964	15
-Civil disobedience	12
-Civilian Conservation Corps	12
-Clarke's three laws	14
-Classless Inter-Domain Routing	12
-Claude Monet	13
-Climate change	18
-Closed-circuit television	17
-Clothing	17
-Cloud computing	49
-Coffee	19
-Cognitive behavioral therapy	14
-Cognitive dissonance	37
-Cold War	20
-Colombia	27
-Color	12
-Colorado	18
-Comma-separated values	24
-Commodore 64	15
-Common European Framework of Reference for Languages	12
-Common Gateway Interface	25
-Commonwealth of Nations	13
-Communism	13
-Community-supported agriculture	13
-Compact Disc	13
-Computer	16
-Computer science	16
-Computer-aided design	12
-Concrete	12
-Confederate States of America	17
-Confirmation bias	50
-Confucius	14
-Consciousness	16
-Conspiracy theory	11
-Construction	15
-Content delivery network	24
-Content management system	24
-Content marketing	11
-Continuous integration	23
-Conway's Game of Life	18
-Conway's law	11
-Copper	12
-Copyleft	21
-Copyright	37
-Coronavirus	11
-Coronavirus disease 2019	42
-Correlation does not imply causation	13
-Cosplay	14
-Costa Rica	13
-Country music	13
-County seat	14
-Creative Commons	19
-Creativity	14
-Credit card	15
-Critical thinking	11
-Croatia	17
-Cron	18
-Cross-origin resource sharing	13
-Cross-site request forgery	19
-Cross-site scripting	38
-Crowdsourcing	14
-Cryptocurrency	19
-Cryptographic hash function	20
-Cuba	27
-Cultural Revolution	11
-Customer relationship management	23
-Cyberpunk	15
-Cyprus	25
-Czech Republic	33
-DNA	31
-DVD	14
-Dallas	11
-Daniel Dennett	12
-Daniel Kahneman	15
-Dante Alighieri	13
-Dark matter	20
-Data	15
-David Bowie	23
-David Foster Wallace	13
-David Hume	18
-Day of the Dead	16
-Daylight saving time	11
-Death	15
-Deep learning	13
-Deepwater Horizon oil spill	17
-Defense of Marriage Act	14
-Democracy	15
-Democratic Party (United States)	15
-Democratic Republic of the Congo	11
-Denial	13
-Denial-of-service attack	26
-Denmark	33
-Dependency injection	12
-Design	23
-Design Patterns	11
-Design thinking	14
-Detroit	11
-DevOps	15
-Developing countries	21
-Devil	11
-Diabetes	12
-Diabetes mellitus	15
-Diamond	11
-Digital Millennium Copyright Act	48
-Digital marketing	21
-Digital object identifier	44
-Digital rights management	21
-Directive on Privacy and Electronic Communications	23
-Disc jockey	16
-Disease	20
-Divorce	11
-Diwali	24
-Django Reinhardt	11
-Do it yourself	15
-Doctor Who	21
-Documentary film	13
-Dog	23
-Domain Name System	74
-Domain name	19
-Domestic violence	11
-Dominican Republic	16
-Don Quixote	11
-Don't repeat yourself	29
-Donald Trump	46
-Dopamine	17
-Dr. Seuss	12
-Dracula	13
-Dubai	14
-Dunbar's number	23
-Dungeons & Dragons	11
-Dunning–Kruger effect	34
-Dwight D. Eisenhower	18
-E-book	13
-E-commerce	17
-EPUB	11
-Earth	42
-Earth Day	15
-Easter	22
-Easter egg (media)	15
-Eastern Orthodox Church	13
-Eating your own dog food	11
-Ecology	12
-Economics	17
-Ecosystem	12
-Ecuador	17
-Edgar Allan Poe	15
-Edgar Rice Burroughs	11
-Edinburgh	14
-Education	23
-Edward Bernays	15
-Edward Snowden	16
-Egypt	34
-Eiffel Tower	14
-Electrician	46
-Electricity	11
-Electromagnetic spectrum	11
-Elizabeth I of England	14
-Elizabeth II	17
-Elizabeth Taylor	11
-Elon Musk	35
-Elton John	13
-Elvis Presley	21
-Email	12
-Emergence	14
-Eminem	12
-Emoticon	13
-Emotion	13
-Emotional intelligence	14
-Empathy	11
-Employment	15
-En:Creative Commons	55
-Endianness	12
-Energy	11
-Engine	14
-England	45
-English	36
-English language	62
-Entertainment	11
-Entrepreneur	12
-Enzyme	11
-Epigenetics	12
-Epistemology	13
-Equipment	12
-Eric Clapton	15
-Ernest Hemingway	44
-Estonia	16
-Ethics	11
-Ethiopia	19
-Eucharist	11
-Eugenics	15
-Eukaryote	12
-Euro	16
-Europe	81
-European Union	52
-Evangelicalism	12
-Evolution	18
-Evolutionary psychology	11
-Existentialism	15
-Externality	17
-F. Scott Fitzgerald	12
-Facebook	44
-Fair use	35
-Family (biology)	16
-Fascism	15
-Fasting	12
-Favicon	13
-Fear of missing out	17
-Fear, uncertainty and doubt	17
-Federal Bureau of Investigation	12
-Federal government of the United States	13
-Fela Kuti	12
-Feng shui	16
-Fermi paradox	11
-Fibonacci number	11
-File Transfer Protocol	15
-Film	19
-Filter bubble	11
-Finance	12
-Finland	34
-Firefly (TV series)	11
-First Amendment to the United States Constitution	16
-Fish	14
-Five Eyes	13
-Florence	14
-Florida	34
-Flow (psychology)	38
-Flower	11
-Flying Spaghetti Monster	14
-Folksonomy	11
-Food	13
-Food and Drug Administration	14
-Forbes	14
-Foreign exchange market	11
-Fourth Amendment to the United States Constitution	11
-France	90
-Francis Galton	11
-Frank Gehry	14
-Frank Lloyd Wright	15
-Frank Sinatra	11
-Frankenstein	12
-Franklin D. Roosevelt	25
-Franz Kafka	11
-Frederick Douglass	19
-Free software	23
-French Revolution	18
-French language	37
-Frida Kahlo	14
-Friedrich Nietzsche	21
-Fruit	22
-Fukushima Daiichi nuclear disaster	11
-Functional programming	15
-G. K. Chesterton	12
-GNU Free Documentation License	25
-GNU General Public License	17
-GPS	18
-Gaia hypothesis	11
-Galileo Galilei	19
-Gambling	31
-Game of Thrones	13
-Game theory	15
-Gamification	11
-Garlic	14
-Gautama Buddha	24
-General Data Protection Regulation	92
-General relativity	13
-Genus	15
-Geographic coordinate system	16
-Geographic information system	12
-George Carlin	11
-George H. W. Bush	13
-George Harrison	12
-George Orwell	24
-George Santayana	13
-George W. Bush	19
-George Washington	29
-Georgia (U.S. state)	15
-Georgia (country)	14
-Germ theory of disease	11
-German language	28
-Germany	84
-Getting Things Done	11
-Ghana	13
-Ginger	11
-Glasgow	12
-Global Positioning System	27
-Global warming	29
-Glycerol	11
-God	75
-Godwin's law	39
-Gold	15
-Golden Rule	11
-Golden ratio	23
-Google	35
-Gospel of Matthew	11
-Government	15
-Grace Hopper	13
-Grammy Award	14
-Grand Canyon	11
-Graphene	11
-Graphic design	11
-Great Britain	21
-Great Depression	33
-Greece	40
-Greek language	33
-Greenhouse gas	15
-Gregorian calendar	22
-Gross domestic product	17
-Guitar	12
-Gulf War	14
-Gulf of Tonkin incident	12
-Guyana	12
-H. G. Wells	12
-H. L. Mencken	13
-H. P. Lovecraft	19
-HAL 9000	13
-HBO	11
-HDMI	11
-HEPA	20
-HIV	16
-HTML	36
-HTML5	25
-HTTP Strict Transport Security	11
-HTTP cookie	379
-HTTPS	24
-Haiku	17
-Haiti	15
-Halloween	36
-Halting problem	12
-Hamburg	14
-Hans Christian Andersen	11
-Hanukkah	15
-Happiness	13
-Hard disk drive	17
-Harriet Tubman	15
-Harry Potter	21
-Harvard University	17
-Hashtag	15
-Haversine formula	17
-Hawaii	19
-Hawthorne effect	11
-Hayao Miyazaki	11
-Health	16
-Health Insurance Portability and Accountability Act	12
-Health care	17
-Health insurance	11
-Heat	11
-Heavy metal music	11
-Hebrew language	25
-Helen Keller	12
-Help:IPA for English	30
-Help:IPA for English#Key	16
-Help:Installing Japanese character sets	26
-Help:Japanese	12
-Help:Pronunciation respelling key	13
-Henri Cartier-Bresson	12
-Henri Matisse	12
-Henry David Thoreau	17
-Henry Ford	14
-Henry VIII of England	11
-Herman Melville	33
-Heroin	11
-Hezbollah	12
-High availability	11
-High frequency	17
-Hillary Clinton	18
-Himalayas	15
-Hindi	11
-Hindu	15
-Hinduism	19
-Holi	14
-Hollywood	17
-Holodomor	11
-Holy Spirit	12
-Homer	11
-Homosexuality	12
-Honduras	11
-Hong Kong	32
-Horsepower	15
-Hosts (file)	58
-Houston	11
-Human	45
-Human rights	17
-Hungary	28
-Hurricane Katrina	17
-Hydraulic fracturing	13
-Hydrogen	12
-Hypertension	13
-Hypertext Transfer Protocol	16
-IMDb	13
-IOS	23
-IP Code	13
-IP address	37
-IPhone	17
-IPod	13
-IPv4	12
-IPv6	16
-ISBN (identifier)	20
+Automatic transmission	12
+Automation	12
+Automobile	27
+Automotive industry	13
+Autonomous sensory meridian response	19
+Availability heuristic	20
+Avant-garde	12
+Avatar (2009 film)	20
+Avatar (computing)	11
+Avengers (comics)	13
+Avengers: Age of Ultron	14
+Avengers: Endgame	17
+Avengers: Infinity War	13
+Aviation	12
+Avocado	17
+Awareness	19
+Axiom	14
+Ayn Rand	28
+Ayurveda	21
+Azerbaijan	31
+Azores	14
+Aztec	11
+B testing	33
+B. F. Skinner	24
+B. J. Novak	12
+B. R. Ambedkar	11
+B.B. King	14
+BASIC	17
+BBC	61
+BDSM	28
+BIOS	16
+BMP file format	11
+BMW	12
+BRIC	18
+BRICS	14
+BSD licenses	15
+Baal	12
+Baba ghanoush	12
+Baby boomer	11
+Baby boomers	22
+Babylon	11
+Babylon 5	15
+Baccarat (card game)	17
+Bachelor of Arts	19
+Back to the Future	17
+Backlink	18
+Backup	14
+Backus–Naur Form	172
+Bacon	19
+Bacteria	36
+Bahrain	24
+Bahá'í Faith	14
+Balfour Declaration	14
+Bali	25
+Balkans	12
+Ballet	13
+Baltic Sea	18
+Baltimore	21
+Bamboo	14
+Banana	22
+Bananarama	11
+Bandwagon effect	11
+Bangalore	32
+Bangkok	36
+Bangladesh	43
+Banjo	14
+Bank	26
+Bank of England	14
+Bankruptcy	18
+Banksy	25
+Banner blindness	15
+Baphomet	13
+Baptism	15
+Baptists	14
+BarCamp	17
+Barack Obama	100
+"Barack Obama ""Hope"" poster"	11
+Barbados	15
+Barbecue	21
+Barbie	14
+Barbra Streisand	17
+Barcelona	38
+Barcode	21
+Baroque	19
+Barry Goldwater	13
+Bartolomé de las Casas	12
+Baruch Spinoza	12
+Basal metabolic rate	11
+Base64	37
+Baseball	22
+Bash (Unix shell)	18
+Bashar al-Assad	18
+Basic access authentication	31
+Basic income	21
+Basketball	25
+Bass guitar	14
+Bastille Day	16
+Bath, Somerset	15
+Bathroom	16
+Batman	36
+Batman (TV series)	11
+Batman v Superman: Dawn of Justice	11
+Battery (electricity)	12
+Battle of Agincourt	13
+Battle of Gettysburg	13
+Battle of Thermopylae	14
+Battle of Vienna	13
+Battle of Waterloo	18
+Battle of the Bulge	18
+Battle of the Somme	18
+Bauhaus	25
+Bavaria	26
+Bay leaf	11
+Bay of Pigs Invasion	15
+Bayard Rustin	12
+Bayes' theorem	18
+Bayesian inference	15
+Bcrypt	28
+Beach	13
+Bean	12
+Beat Generation	13
+Beatrix Potter	12
+Beauty	15
+Bechdel test	37
+Bed bug	13
+Bee	12
+Beef	13
+Beer	21
+Begging the question	20
+Behavior	19
+Behavior-driven development	24
+Beijing	28
+Beirut	13
+Belarus	34
+Belfast	15
+Belgium	64
+Belief	21
+Belize	18
+Bell Labs	12
+Bell hooks	17
+Belt and Road Initiative	20
+Ben Bernanke	11
+Ben Carson	13
+Benedict Arnold	11
+Benedict Cumberbatch	14
+Bengali language	14
+Benin	13
+Benito Mussolini	18
+Benjamin Disraeli	18
+Benjamin Franklin	53
+Benjamin Libet	11
+Benjamin Netanyahu	16
+Benny Goodman	13
+Bento	11
+Benzene	11
+Berkeley, California	14
+Berlin	45
+Berlin Wall	19
+Bermuda	18
+Bernard Madoff	15
+Bernie Sanders	24
+Bertolt Brecht	17
+Bertrand Russell	39
+Best practice	11
+Betamax	12
+Betteridge's law of headlines	26
+Betty Friedan	11
+Beyoncé	18
+Bhagavad Gita	23
+Bharatiya Janata Party	13
+Bhopal disaster	12
+Bhutan	16
+BibTeX	12
+Bibcode	12
+Bibimbap	13
+Bible	52
+Biblical Magi	12
+Bibliothèque nationale de France	12
+Bicycle	21
+Big Bang	36
+Big Brother (Nineteen Eighty-Four)	13
+Big Five personality traits	24
+Big Lie	12
+Big O notation	19
+Big data	57
+Big lie	11
+Bigfoot	14
+Bihar	13
+Bilderberg Group	16
+Bill & Melinda Gates Foundation	11
+Bill Clinton	55
+Bill Cosby	11
+Bill Gates	36
+Bill of Rights 1689	12
+Billboard (magazine)	25
+Billboard 200	18
+Billboard Hot 100	32
+Billie Holiday	21
+Billy Joel	18
+Binary search algorithm	14
+Biodiversity	16
+Biology	21
+Biometrics	12
+Biophilia hypothesis	12
+Bipolar disorder	21
+Bird	23
+Birmingham	19
+Birmingham, Alabama	12
+Birth control	11
+Bisphenol A	13
+Bit	11
+BitTorrent	18
+BitTorrent (protocol)	17
+Bitcoin	106
+Björk	13
+Black Death	30
+Black Friday (shopping)	48
+Black History Month	12
+Black Lives Matter	30
+Black Mirror	12
+Black Monday (1987)	13
+Black Panther (film)	12
+Black Panther Party	16
+Black Sabbath	18
+Black Sea	18
+Black box	11
+Black hole	19
+Black people	13
+Black pepper	27
+Black site	11
+Black swan theory	44
+Blackface	11
+Blackjack	34
+Blade Runner	28
+Blaise Pascal	23
+Blind men and an elephant	14
+Blockchain	56
+Blog	119
+Blogger (service)	18
+Blogosphere	11
+Blood	19
+Blood pressure	14
+Blu-ray Disc	18
+Blue	15
+Blue Ocean Strategy	12
+Blue Screen of Death	16
+Blue moon	11
+Bluegrass music	13
+Blues	23
+Bluetooth	37
+Board game	13
+Board of directors	11
+Bob Dylan	38
+Bob Marley	16
+Bobby Fischer	11
+Bodhidharma	12
+Bodhisattva	15
+Body mass index	25
+Bodybuilding	13
+Boeing	13
+Boeing 737	11
+Bohemian Grove	15
+Boiling frog	15
+Bokeh	27
+Boko Haram	20
+Bolivia	27
+Bollywood	28
+Bombing of Dresden in World War II	11
+Bon Jovi	12
+Bone	13
+Book	34
+Book of Exodus	14
+Book of Genesis	29
+Book of Kells	13
+Book of Leviticus	11
+Book of Revelation	26
+Booker T. Washington	11
+Bookmarklet	11
+Bordeaux	15
+Boredom	11
+Borg (Star Trek)	18
+Boris Johnson	26
+Bosnia and Herzegovina	26
+Boston	39
+Boston Tea Party	11
+Botnet	14
+Botswana	16
+Botulinum toxin	13
+Bourgeoisie	11
+Boxing	20
+Boxing Day	15
+Brad Pitt	14
+Bradley Cooper	11
+Bradley Manning	13
+Brahman	18
+Brahmin	17
+Brain	34
+Brain-derived neurotrophic factor	12
+Brainfuck	12
+Bram Stoker	12
+Brand	25
+Brandenburg Gate	15
+Brass	11
+Bratislava	12
+Brave New World	25
+Brazil	80
+Brazilian jiu-jitsu	13
+Bread	16
+Bread and circuses	12
+Breadth-first search	12
+Breakfast	11
+Breaking Bad	22
+Breast cancer	21
+Bretton Woods system	17
+Brexit	28
+Brian Cox (physicist)	11
+Brian Eno	23
+Brian Wilson	12
+Brick	11
+Brighton	13
+Brigitte Bardot	11
+Brisbane	21
+Bristol	27
+British Army	13
+British Columbia	26
+British Empire	32
+British English	16
+British Museum	13
+British Raj	29
+British Virgin Islands	11
+Britney Spears	19
+Broadcasting	15
+Broadway theatre	23
+Broken windows theory	21
+Bronze	12
+Bronze Age	19
+Brookings Institution	15
+Brooklyn	31
+Brooklyn Bridge	16
+Brooks's law	13
+Broth	11
+Brothers Grimm	14
+Brown v. Board of Education	20
+Brownian motion	13
+Bruce Lee	22
+Bruce Nauman	12
+Bruce Springsteen	23
+Brunei	23
+Brussels	16
+Brutalist architecture	15
+Brute-force attack	25
+Bucharest	12
+Buckingham Palace	13
+Buckminster Fuller	40
+Budapest	18
+Buddhism	56
+Buddhist	12
+Budget	14
+Buenos Aires	25
+Buffalo, New York	16
+Building	20
+Bulgaria	42
+Bulgarian language	14
+Bulletin board system	21
+Bullying	13
+Burj Khalifa	24
+Burkina Faso	16
+Burma	20
+Burning Man	22
+Burundi	23
+Bus	16
+Bus factor	11
+Bush v. Gore	14
+Business	55
+Business Model Canvas	17
+Business intelligence	28
+Business model	16
+Business-to-business	11
+Buster Keaton	12
+Butch Cassidy and the Sundance Kid	11
+Butter	19
+Butterfly	14
+Butterfly effect	42
+Bystander effect	17
+Byzantine Empire	24
+C (programming language)	36
+C Sharp (programming language)	22
+C++	36
+C. S. Lewis	46
+CAP theorem	14
+CAPTCHA	57
+CBS	15
+CD	13
+CEO	11
+CERN	14
+CMYK color model	15
+CNN	19
+COINTELPRO	26
+COVID-19 pandemic	49
+CRISPR	19
+CSI: Crime Scene Investigation	12
+CSS	16
+CURL	16
+Cabbage	11
+Cache (computing)	11
+Cactus	12
+Caduceus	11
+Caesar cipher	12
+Caffeine	21
+Cain and Abel	11
+Cairo	17
+Cake	13
+Calcium	23
+Calcium carbonate	15
+Caldera	11
+Calendar of saints	11
+Calgary	18
+California	133
+California Consumer Privacy Act	20
+California Proposition 8 (2008)	13
+Caliphate	13
+Call girl	29
+Call to action (marketing)	11
+Calligraphy	11
+Calorie	15
+Calvin Coolidge	15
+Calvin and Hobbes	18
+Cambodia	36
+Cambrian explosion	12
+Cambridge	17
+Cambridge Analytica	17
+Cambridge University Press	11
+CamelCase	38
+Camellia sinensis	11
+Camera	12
+Cameroon	22
+Camille Pissarro	11
+Camino de Santiago	14
+Canada	177
+Canada Day	11
+Canary Islands	15
+Canberra	18
+Cancer	34
+Cannabidiol	52
+Cannabinoid	13
+Cannabis	21
+Cannabis (drug)	37
+Cannabis sativa	16
+Cape Town	13
+Cape Verde	15
+Capital city	16
+Capital punishment	16
+Capitalism	32
+Capsaicin	12
+Captain America	26
+Captain America: Civil War	13
+Captcha	21
+Car	15
+Caravaggio	18
+Carbohydrate	19
+Carbon	16
+Carbon capture and storage	12
+Carbon dioxide	26
+Carbon monoxide	19
+Card security code	39
+Cardiff	23
+Cardiopulmonary resuscitation	11
+Cardiovascular disease	16
+Cargo cult	27
+Caribbean	40
+Carl Jung	57
+Carl Linnaeus	28
+Carl Rogers	11
+Carl Sagan	46
+Carnatic music	11
+Carnival	16
+Carotenoid	11
+Carpal tunnel syndrome	13
+Carpet	19
+Carrot	11
+Carrying capacity	13
+Cartesian coordinate system	11
+Cascading Style Sheets	52
+Casein	13
+Casino	67
+Casino game	41
+Cass Sunstein	12
+Cassini–Huygens	13
+Casualties of the Iraq War	12
+Cat	35
+Catalonia	21
+Cataract	12
+Catch-22	18
+Categorization	17
+Cathedral	11
+Catherine the Great	11
+Catholic	14
+Catholic Church	66
+Catholicism	17
+Cattle	12
+Catwoman	12
+Caucasus	11
+Causality	16
+Caveat emptor	15
+Cayenne pepper	12
+Cayman Islands	17
+Celine Dion	12
+Cell (biology)	30
+Cellular automaton	12
+Celsius	19
+Celts	11
+Cement	13
+Cenote	13
+Censorship	23
+Census-designated place	14
+Centers for Disease Control and Prevention	23
+Central African Republic	12
+Central America	19
+Central Asia	16
+Central Europe	18
+Central Intelligence Agency	19
+Central Park	18
+Central bank	13
+Central nervous system	15
+Central processing unit	34
+Ceramic	14
+Cerebral cortex	13
+Cerebral palsy	14
+Ceres (dwarf planet)	11
+Certificate authority	28
+Chad	14
+Chakra	24
+Champs-Élysées	13
+Chaos theory	31
+Character (arts)	11
+Charcoal	15
+Chardonnay	12
+Charitable organization	12
+Charlemagne	17
+Charles Babbage	13
+Charles Baudelaire	18
+Charles Darwin	53
+Charles Dickens	60
+Charles I of England	18
+Charles II of England	21
+Charles Manson	13
+Charles Mingus	11
+Charles V, Holy Roman Emperor	12
+Charles de Gaulle	19
+Charles, Prince of Wales	11
+Charleston church shooting	14
+Charleston, South Carolina	12
+Charlie Chaplin	33
+Charlie Hebdo shooting	17
+Charlie Parker	17
+Charlotte, North Carolina	13
+Chatbot	15
+Chav	13
+Che Guevara	19
+Cheese	21
+Chekhov's gun	17
+Chelsea F.C.	12
+Chelsea Manning	14
+Chemical element	11
+Chemical reaction	13
+Chemical substance	11
+Chemistry	20
+Chemtrail conspiracy theory	14
+Chengdu	12
+Chennai	20
+Cher	14
+Chernobyl disaster	21
+Cherokee	12
+Cherry blossom	11
+Chesapeake Bay	15
+Chess	21
+Chess Records	12
+Chiang Mai	16
+Chicago	71
+Chicken	21
+Chickpea	11
+Chicory	11
+Chief executive officer	22
+Child	25
+Children's Day	13
+Children's Online Privacy Protection Act	69
+Chile	51
+Chili pepper	17
+China	118
+Chinese Exclusion Act	16
+Chinese New Year	25
+Chinese calendar	16
+Chinese language	36
+Chinese martial arts	12
+Chinese whispers	13
+Chinese zodiac	18
+Chiropractic	43
+Chlorine	15
+Chocolate	23
+Cholera	12
+Cholesterol	18
+Choose Your Own Adventure	21
+Chris Anderson (writer)	12
+Chris Christie	15
+Christ	43
+Christiaan Huygens	12
+Christian	52
+Christian Church	19
+Christian denomination	11
+Christian right	15
+Christianity	80
+Christians	11
+Christina Aguilera	12
+Christmas	121
+Christmas Eve	13
+Christmas and holiday season	19
+Christmas tree	20
+Christmas truce	11
+Christopher Columbus	27
+Christopher Hitchens	23
+Christopher Lee	18
+Chroma key	13
+Chromium (web browser)	15
+Chromosome	12
+Chronic fatigue syndrome	11
+Chuck Berry	23
+Church (building)	15
+Church Committee	12
+Church of England	19
+Cicada	12
+Cicero	21
+Cigarette	11
+Cincinnati	11
+Cinco de Mayo	25
+Cinnamon	20
+Circadian rhythm	16
+Circular economy	11
+Cisgender	18
+Citation needed	26
+Citing sources	18
+Citizen journalism	12
+Citizen science	11
+Citizens United v. FEC	25
+Citizens United v. Federal Election Commission	22
+Citizenship	16
+Citric acid	15
+Citrus	11
+City	15
+City of London	16
+Civil Rights Act of 1964	28
+Civil and political rights	11
+Civil disobedience	18
+Civil liberties	13
+Civil rights movement	18
+Civilian Conservation Corps	22
+Civilization	12
+Clade	11
+Clairvoyance	12
+Clarence Thomas	11
+Clarke's three laws	21
+Classical conditioning	13
+Classical liberalism	16
+Classical music	14
+Classless Inter-Domain Routing	22
+Claude Lévi-Strauss	11
+Claude Monet	31
+Claude Shannon	13
+Clay Shirky	16
+Clayton M. Christensen	12
+Cleaning	14
+Cleveland	16
+Click-through rate	12
+Climate	18
+Climate change	38
+Clinical trial	11
+Closed-circuit television	21
+Clothing	29
+Cloud computing	103
+Cluster analysis	16
+Coaching	11
+Coal	15
+Coca-Cola	17
+Cocaine	18
+Coco Chanel	11
+Coconut	20
+Coconut oil	21
+Code injection	11
+Code of Hammurabi	18
+Coeliac disease	16
+Coen brothers	15
+Coffee	39
+Cognition	12
+Cognitive behavioral therapy	30
+Cognitive bias	22
+Cognitive dissonance	71
+Cognitive load	12
+Cognitive science	15
+Cold War	48
+Coldplay	12
+Cole Porter	11
+Collaboration	12
+Collagen	22
+College	11
+College football	12
+Cologne	18
+Colombia	50
+Colombo	12
+Colony collapse disorder	19
+Color	25
+Color psychology	11
+Colorado	37
+Colosseum	26
+Columbia Pictures	11
+Columbia Records	13
+Columbia University	23
+Columbine High School massacre	18
+Columbus, Ohio	19
+Comedy	13
+Comedy film	14
+Comedy-drama	12
+Comet	13
+Comic book	13
+Comics Code Authority	11
+Comma-separated values	60
+Command-line interface	18
+Commedia dell'arte	13
+Commodore 64	31
+Common Era	22
+Common European Framework of Reference for Languages	25
+Common Gateway Interface	34
+Common Sense (pamphlet)	12
+Common cold	13
+Common law	18
+Commons	11
+Commonwealth of Nations	35
+Communication	28
+Communism	34
+Communist	12
+Communist Party of China	12
+Community	22
+Community-supported agriculture	22
+Comoros	14
+Compact Disc	23
+Compact disc	12
+Company	14
+Comparison of reference management software	16
+Compassion	16
+Compiler	14
+Complex adaptive system	12
+Composer	15
+Compost	11
+Computer	40
+Computer Fraud and Abuse Act	12
+Computer hardware	11
+Computer network	15
+Computer program	16
+Computer programming	16
+Computer science	37
+Computer security	16
+Computer software	12
+Computer virus	18
+Computer-aided design	21
+Computer-generated imagery	23
+Computing	11
+Conan the Barbarian	12
+Concept	11
+Concrete	31
+Concurrent Versions System	14
+Condoleezza Rice	14
+Confederate States Army	12
+Confederate States of America	30
+Confirmation bias	97
+Conflict-free replicated data type	11
+Confounding	11
+Confucianism	12
+Confucius	26
+Connecticut	24
+Consciousness	31
+Conservation of energy	13
+Conservatism	13
+Conservatism in the United States	12
+Conspiracy theory	31
+Constantine the Great	11
+Constantinople	16
+Constellation	15
+Constitution	11
+Constitutional monarchy	16
+Construction	29
+Consultant	20
+Consumerism	13
+Content delivery network	53
+Content management system	57
+Content marketing	21
+Context-free grammar	12
+Continent	11
+Continental Congress	12
+Continuous delivery	13
+Continuous integration	44
+Contract	12
+Convergent evolution	12
+Convolutional neural network	14
+Conway's Game of Life	43
+Conway's law	21
+Cooking	20
+Coordinated Universal Time	35
+Copenhagen	15
+Copenhagen interpretation	15
+Copper	24
+Copyleft	39
+Copyright	68
+Copyright Term Extension Act	15
+Copywriting	12
+Coriander	21
+Cornell University	11
+Cornhole	12
+Cornwall	12
+Coronal mass ejection	13
+Coronavirus	30
+Coronavirus disease 2019	81
+Corporate social responsibility	27
+Corporation	22
+Correlation does not imply causation	25
+Cortisol	17
+Cosmetics	19
+Cosmos: A Personal Voyage	18
+Cosplay	28
+Costa Rica	36
+Cottingley Fairies	13
+Cotton	23
+Council of Europe	15
+Council of Trent	11
+Council on Foreign Relations	17
+Counter-Strike	12
+Counterpoint	11
+Country music	27
+County seat	24
+Coup d'état	14
+Coyote	11
+Cream (band)	13
+Create, read, update and delete	26
+Creation myth	13
+Creationism	11
+Creative Commons	48
+Creative Commons license	17
+Creative destruction	21
+Creativity	24
+Creator deity	16
+Credit card	38
+Credit score	16
+Creedence Clearwater Revival	12
+Cretaceous	11
+Cretaceous–Paleogene extinction event	17
+Crete	20
+Cricket	33
+Crime	16
+Crimean War	11
+Cristiano Ronaldo	20
+Critical thinking	18
+Croatia	39
+Crohn's disease	11
+Cron	43
+Cross-origin resource sharing	26
+Cross-site request forgery	48
+Cross-site scripting	62
+Crossing the Chasm	15
+Crowd funding	15
+Crowdfunding	20
+Crowdsourcing	37
+Crucifixion of Jesus	15
+Crusades	14
+Cryptocurrency	64
+Cryptographic hash function	30
+Cryptography	21
+Crystal	12
+Cthulhu	15
+Cuba	53
+Cuban Missile Crisis	14
+Cubism	17
+Cult	12
+Cultural Revolution	22
+Cultural heritage	11
+Culture	29
+Cumin	13
+Curaçao	13
+Curiosity (rover)	11
+Curriculum	11
+Currying	11
+Curse of knowledge	13
+Customer	22
+Customer lifetime value	11
+Customer relationship management	42
+Customer service	18
+Cyanobacteria	12
+Cyber Monday	16
+Cybernetics	14
+Cyberpunk	26
+Cybersquatting	11
+Cyclic redundancy check	14
+Cyclomatic complexity	14
+Cyndi Lauper	12
+Cynefin framework	14
+Cyprus	40
+Czech Republic	66
+Czech language	16
+Czechoslovakia	20
+D. H. Lawrence	12
+DARPA	17
+DC	18
+DC Comics	20
+DMCA	13
+DNA	60
+DOS	11
+DSM-5	11
+DVD	38
+Dada	14
+Daily Mail	11
+Dalai Lama	21
+Dale Carnegie	17
+Dalek	13
+Dalit	11
+Dallas	27
+Damascus	15
+Damien Hirst	15
+Dance	14
+Dancehall	12
+Daniel Craig	11
+Daniel Dennett	24
+Daniel Kahneman	22
+Daniel Webster	11
+Danish language	11
+Dante Alighieri	25
+Danube	12
+Dark energy	22
+Dark matter	33
+Darth Vader	16
+Darwin, Northern Territory	13
+Data	26
+Data Protection Directive	11
+Data URI scheme	14
+Data analysis	11
+Data center	13
+Data mining	22
+Data science	15
+Data structure	11
+Data warehouse	13
+Database	19
+Dates and numbers#Chronological items	13
+Dating	12
+David	18
+David Attenborough	17
+David Beckham	11
+David Bohm	14
+David Bowie	55
+David Cameron	18
+David Foster Wallace	28
+David Hume	34
+David Koresh	14
+David Letterman	15
+David Lloyd George	11
+David Lynch	19
+David Petraeus	12
+Day of the Dead	42
+Daylight saving time	32
+De facto	11
+De:Creative Commons	13
+Dead Sea	14
+Death	36
+Death of Eric Garner	11
+Debt	12
+Decibel	15
+Deciduous	12
+Decision making	14
+Decorator pattern	13
+Deductive reasoning	13
+Deep Blue (chess computer)	17
+Deep Blue versus Garry Kasparov	11
+Deep Purple	15
+Deep learning	33
+Deepwater Horizon oil spill	25
+Def Leppard	12
+Defamation	14
+Defense in depth (computing)	11
+Defense of Marriage Act	18
+Deferred Action for Childhood Arrivals	14
+Deism	17
+Delaware	15
+Delhi	21
+Dementia	15
+Demiurge	15
+Democracy	31
+Democracy Index	13
+Democratic Party (United States)	40
+Democratic Republic of the Congo	23
+Demon	16
+Demonym	14
+Denial	18
+Denial-of-service attack	53
+Denmark	60
+Dennis Hopper	12
+Density	15
+Dental implant	17
+Dentist	13
+Dentistry	18
+Denver	19
+Depeche Mode	11
+Dependency injection	37
+Dependency inversion principle	11
+Depression (mood)	24
+Depth-first search	13
+Derivative (finance)	12
+Dermatology	14
+Design	35
+Design Patterns	15
+Design thinking	31
+Detroit	20
+Deus ex machina	17
+DevOps	31
+Developed country	11
+Developing countries	33
+Developmental psychology	11
+Devil	21
+Dewey Decimal Classification	13
+Dexter (TV series)	11
+Dharma	17
+Diabetes	18
+Diabetes mellitus	18
+Diagnostic and Statistical Manual of Mental Disorders	31
+Dialectic	16
+Diamond	19
+Diana, Princess of Wales	19
+Diarrhea	13
+Dick Cheney	23
+Dictionary attack	13
+Diesel engine	11
+Diet (nutrition)	13
+Dietary fiber	15
+Dietary supplement	15
+Dietrich Bonhoeffer	19
+Diffie–Hellman key exchange	19
+Diffraction	13
+Diffusion of innovations	17
+Digital Millennium Copyright Act	93
+Digital audio workstation	12
+Digital divide	14
+Digital marketing	47
+Digital native	12
+Digital object identifier	95
+Digital rights management	41
+Digital signature	16
+Digital single-lens reflex camera	22
+Dim sum	17
+Diminishing returns	13
+Dinosaur	12
+Dionysus	15
+Direct current	15
+Direct democracy	13
+Directed acyclic graph	21
+Directive on Privacy and Electronic Communications	30
+Disability	15
+Disc jockey	30
+Disco	11
+Discrimination	13
+Discworld	14
+Disease	29
+Display resolution	11
+Disruptive innovation	14
+Dissociative identity disorder	16
+Dissolution of the Monasteries	12
+Distributed computing	13
+Distributed ledger	11
+District of Columbia v. Heller	13
+Diuretic	11
+Divination	12
+Divine Comedy	16
+Divorce	28
+Diwali	56
+Dizzy Gillespie	11
+Django Reinhardt	18
+Djibouti	11
+Do Androids Dream of Electric Sheep?	15
+Do Not Track	17
+Do it yourself	28
+Docker (software)	19
+Doctor Who	42
+Doctor of Philosophy	28
+Document Object Model	16
+Documentary film	25
+Dodd–Frank Wall Street Reform and Consumer Protection Act	15
+Dodo	11
+Dog	52
+Doi (identifier)	22
+Dolly Parton	12
+Domain Name System	199
+Domain name	38
+Domain-driven design	21
+Domain-specific language	20
+Domestic violence	18
+Dominica	21
+Dominican Order	11
+Dominican Republic	28
+Don Quixote	26
+Don't be evil	11
+Don't repeat yourself	60
+Donald Knuth	14
+Donald Rumsfeld	16
+Donald Trump	92
+Donald Trump sexual misconduct allegations	11
+Door	16
+Dopamine	36
+Doppler effect	16
+Dorothy Day	11
+Dorothy Parker	14
+Dorset	11
+Dosa	13
+Dot product	12
+Dot-com bubble	30
+Double bass	11
+Doublethink	15
+Douglas Adams	21
+Douglas Engelbart	14
+Douglas Fairbanks	11
+Douglas Hofstadter	14
+Douglas MacArthur	16
+Down syndrome	12
+Doxing	15
+Dr. Seuss	30
+Dr. Strangelove	13
+Drabble	13
+Dracula	21
+Dragon	13
+Drake equation	19
+Drama	13
+Drama film	13
+Dreyfus affair	11
+Drinking water	15
+Driving under the influence	13
+Drug	19
+Drywall	13
+Dubai	27
+Dublin	18
+Dubrovnik	18
+Dubstep	11
+Duke Ellington	20
+Dunbar's number	60
+Dune (novel)	14
+Dungeons & Dragons	34
+Dunning–Kruger effect	80
+Duran Duran	11
+Durga	12
+Durian	15
+Dust Bowl	12
+Dutch East India Company	11
+Dutch disease	11
+Dutch language	21
+Dwarf planet	11
+Dwayne Johnson	18
+Dwight D. Eisenhower	32
+Dynamic Host Configuration Protocol	20
+Dynamic programming	11
+Dyslexia	12
+Dyson sphere	21
+Dystopia	16
+E-book	30
+E-commerce	43
+E. E. Cummings	11
+E. O. Wilson	17
+E.T. the Extra-Terrestrial	13
+EBay	18
+ELIZA	20
+ENIAC	13
+EPUB	20
+Ear	11
+Earth	89
+Earth Day	39
+Earth's magnetic field	13
+Earthquake	15
+East Asia	17
+East Coast of the United States	16
+East Germany	17
+East India Company	18
+East Timor	11
+Easter	57
+Easter Island	13
+Easter Rising	11
+Easter egg (media)	21
+Eastern Europe	20
+Eastern Orthodox Church	27
+Eating	14
+Eating your own dog food	29
+Ebola virus disease	13
+Ecclesiastes	12
+Eckhart Tolle	16
+Ecology	19
+Economic growth	13
+Economic inequality	11
+Economics	36
+Economy	18
+Economy of the United States	15
+Ecosystem	25
+Ecuador	37
+Edgar Allan Poe	31
+Edgar Cayce	11
+Edgar Rice Burroughs	21
+Edinburgh	25
+Editing	13
+Edmonton	12
+Edmund Burke	25
+Edmund Hillary	11
+Edo period	12
+Edsger W. Dijkstra	16
+Education	55
+Education#	11
+Edvard Munch	13
+Edward Bernays	26
+Edward Gorey	11
+Edward I of England	11
+Edward Snowden	46
+Edward Teller	12
+Effective altruism	11
+Efficient-market hypothesis	11
+Egg (food)	16
+Eggplant	11
+Egypt	71
+Eid al-Adha	20
+Eiffel Tower	29
+El Greco	11
+El Niño	11
+El Salvador	18
+Eleanor Roosevelt	15
+Eleanor of Aquitaine	12
+Election	15
+Electoral College (United States)	14
+Electric Light Orchestra	12
+Electric car	15
+Electric charge	13
+Electric current	12
+Electric motor	15
+Electrical engineering	15
+Electrician	71
+Electricity	21
+Electrocardiography	12
+Electroencephalography	24
+Electrolyte	11
+Electromagnetic induction	13
+Electromagnetic radiation	11
+Electromagnetic spectrum	18
+Electromagnetism	13
+Electron	12
+Electronic cigarette	18
+Electronics	24
+Elephant	15
+Elevator pitch	19
+Elie Wiesel	11
+Elinor Ostrom	12
+Elisabeth Kübler-Ross	15
+Elizabeth I of England	35
+Elizabeth II	36
+Elizabeth Taylor	15
+Elizabeth Warren	16
+Elo rating system	19
+Elon Musk	61
+Elton John	26
+Elvis Presley	50
+Emacs	14
+Email	26
+Email address	11
+Email marketing	25
+Emancipation Proclamation	17
+Emergence	20
+Emily Dickinson	25
+Eminem	17
+Eminent domain	16
+Emma Goldman	13
+Emmett Till	13
+Emmy Award	11
+Emoticon	32
+Emotion	34
+Emotional intelligence	20
+Empathy	25
+Empire of Japan	16
+Empiricism	17
+Employment	28
+En:Creative Commons	124
+En:public domain	14
+Encryption	15
+Encyclopædia Britannica	11
+Encyclopædia Britannica Eleventh Edition	11
+Endangered species	16
+Ender's Game	11
+Endianness	17
+Endocannabinoid system	20
+Endorphins	12
+Energy	32
+Engine	17
+Engineer	13
+Engineering	21
+England	99
+England national football team	11
+English	84
+English Civil War	19
+English Standard Version	11
+English language	106
+Enigma machine	19
+Enterprise content management	12
+Enterprise resource planning	25
+Entertainment	24
+Entertainment Software Rating Board	19
+Entourage effect	12
+Entrepreneur	21
+Entrepreneurship	13
+Entropy	18
+Entropy (information theory)	13
+Environmentalism	15
+Environmentally friendly	17
+Enzyme	26
+Epic of Gilgamesh	20
+Epictetus	18
+Epicureanism	11
+Epicurus	15
+Epidemiology	11
+Epigenetics	19
+Epilepsy	16
+Epiphany (holiday)	22
+Epistemology	31
+Epistle to the Philippians	12
+Equatorial Guinea	13
+Equinox	21
+Equipment	17
+Eric Clapton	23
+Eric Holder	13
+Eric Ries	16
+Erich Fromm	11
+Erik Erikson	17
+Eritrea	16
+Ernest Hemingway	87
+Ernest Shackleton	12
+Erwin Schrödinger	12
+Escherichia coli	16
+Escort agency	22
+Esperanto	22
+Esports	13
+Espresso	13
+Essay	15
+Essential oil	17
+Ester	11
+Estonia	39
+Ethanol	18
+Ethereum	15
+Ethernet	13
+Ethics	25
+Ethiopia	32
+Ethnic group	19
+Etymology	18
+Eucharist	20
+Euclidean distance	14
+Eugenics	27
+Eukaryote	21
+Euro	29
+Europa (moon)	12
+Europe	153
+European Central Bank	12
+European Commission	18
+European Convention on Human Rights	12
+European Economic Area	18
+European Union	99
+Eurovision Song Contest	12
+Eurozone	15
+Evangelicalism	30
+Evangelism	12
+Evaporation	11
+Evel Knievel	11
+Eventual consistency	12
+Evidence	17
+Evidence-based medicine	12
+Evil	13
+Evolution	43
+Evolutionary psychology	15
+Exchange-traded fund	12
+Exchangeable image file format	13
+Executive Order 6102	18
+Exif	22
+Existence of God	13
+Existentialism	24
+Exoplanet	11
+Expatriate	12
+Experience	15
+Exponential growth	13
+Exquisite corpse	13
+Extensible Metadata Platform	11
+Externality	23
+Extract, transform, load	17
+Extraterrestrial life	19
+Extreme programming	13
+Exxon Valdez oil spill	18
+Ezra Pound	17
+F. Scott Fitzgerald	18
+FC Barcelona	11
+FIFA	15
+FIFA World Cup	15
+Fabaceae	12
+Facebook	88
+Facebook features	14
+Facebook–Cambridge Analytica data scandal	18
+Factorial	14
+Factory method pattern	11
+Fahrenheit	18
+Fahrenheit 451	26
+Fair trade	13
+Fair use	60
+Fairy	15
+Fairy tale	12
+Faith	11
+Fake news	13
+Falkland Islands	13
+Falklands War	11
+False dilemma	16
+False flag	17
+Falsifiability	14
+Family	18
+Family (biology)	41
+Family Guy	14
+Fan fiction	13
+Fantastic Four	11
+Fantasy	17
+Far-right politics	11
+Faraday cage	22
+Faroe Islands	18
+Fascism	28
+Fashion	15
+Fast Fourier transform	14
+Fasting	18
+Fat	18
+Father's Day	18
+Favicon	26
+Fear	23
+Fear of missing out	38
+Fear, uncertainty and doubt	28
+Federal Bureau of Investigation	27
+Federal Communications Commission	19
+Federal Reserve System	17
+Federal government of the United States	34
+Federico García Lorca	12
+Fediverse	12
+Fela Kuti	17
+Felix Mendelssohn	16
+Feminism	18
+Feng shui	26
+Fennel	15
+Ferdinand Magellan	12
+Ferdinand Marcos	12
+Fermi paradox	21
+Fertilizer	12
+Festival	12
+Festivus	17
+Feudalism	14
+Fiat money	24
+Fibonacci number	38
+Fibromyalgia	12
+Fiction	16
+Fidel Castro	15
+Field of view	11
+Field-programmable gate array	22
+Fifth Amendment to the United States Constitution	15
+Fifty Shades of Grey	19
+Fight-or-flight response	20
+Fiji	25
+File Transfer Protocol	34
+File:Question book-new.svg	14
+Film	39
+Film director	13
+Filmmaking	14
+Filter bubble	18
+Final Fantasy	13
+Final Solution	11
+Finance	20
+Financial crisis of 2007–2008	16
+Finite-state machine	17
+Finland	65
+Finnish language	12
+Fire	15
+Firearm	13
+Firefly (TV series)	25
+Firefox	20
+Firmware	12
+First Amendment to the United States Constitution	45
+First Council of Nicaea	13
+First Nations	11
+First World War	13
+First they came...	11
+First-person shooter	14
+Fish	32
+Fish sauce	11
+Five Eyes	22
+Flag of the United States	14
+Flannery O'Connor	12
+Flash fiction	17
+Flash mob	11
+Flatiron Building	11
+Fleetwood Mac	15
+Flickr	15
+Flint water crisis	13
+Flood	14
+Floppy disk	13
+Florence	25
+Florence Nightingale	16
+Florida	76
+Flour	14
+Flow (psychology)	78
+Flower	25
+Flowering plant	18
+Fluorescence	14
+Flying Spaghetti Monster	25
+Flynn effect	13
+Folate	15
+Folk music	15
+Folksonomy	16
+Food	34
+Food and Drug Administration	26
+Foot	13
+Football	15
+Forbes	24
+Forbidden City	17
+Force	19
+Ford Model T	17
+Ford Motor Company	17
+Foreclosure	19
+Foreign exchange market	31
+Forgetting curve	11
+Fork (software development)	12
+Forrest Gump	11
+Fort Worth, Texas	12
+Fortnite	14
+Fortran	12
+Fortune 500	12
+Forward secrecy	15
+Fossil	12
+Foundation series	12
+Founding Fathers of the United States	17
+Four Horsemen of the Apocalypse	13
+Four Noble Truths	12
+Four stages of competence	11
+Fourier transform	11
+Fourteenth Amendment to the United States Constitution	20
+Fourth Amendment to the United States Constitution	26
+Fourth wall	19
+Fox Broadcasting Company	13
+Fox News	13
+Fractal	21
+Frame rate	11
+Framing effect (psychology)	11
+Fran Lebowitz	11
+France	159
+Francis Bacon	19
+Francis Collins	11
+Francis Crick	12
+Francis Drake	14
+Francis Galton	20
+Francis of Assisi	22
+Francisco Franco	19
+Frank Gehry	20
+Frank Herbert	15
+Frank Lloyd Wright	32
+Frank Miller (comics)	14
+Frank Sinatra	28
+Frank Zappa	21
+Frankenstein	29
+Frankenstein's monster	11
+Frankfurt	16
+Frankfurt School	14
+Franklin D. Roosevelt	50
+Franz Kafka	25
+Franz Liszt	20
+Franz Schubert	11
+Fraud	17
+Fred Astaire	15
+Fred Brooks	14
+Fred Hampton	11
+Fred Hoyle	11
+Fred Rogers	15
+Freddie Mercury	14
+Frederick Douglass	29
+Free and open-source software	20
+Free fall	13
+Free market	14
+Free software	52
+Free will	12
+Freedom of Information Act (United States)	13
+Freedom of speech	22
+Freedom of the press	11
+Freelancer	13
+Freeman Dyson	15
+Freemasonry	15
+Freemium	22
+Freeware	12
+French	12
+French Guiana	11
+French Revolution	35
+French cuisine	12
+French fries	13
+French language	71
+Frequency	22
+Frida Kahlo	29
+Friedrich Engels	13
+Friedrich Hayek	16
+Friedrich Nietzsche	50
+Friedrich Schiller	14
+Friends	18
+Friendship	18
+Fruit	35
+Frédéric Chopin	18
+Fukushima Daiichi nuclear disaster	26
+Fully qualified domain name	11
+Functional magnetic resonance imaging	19
+Functional programming	32
+Fundamental attribution error	15
+Fungus	17
+Funk	14
+Furniture	20
+Future Shock	15
+Futurism	11
+G-code	14
+G-force	11
+G. K. Chesterton	24
+GIF	15
+GIMP	12
+GNU Free Documentation License	34
+GNU General Public License	37
+GPS	28
+GPT-3	12
+GSM	15
+GUID Partition Table	13
+Gabon	15
+Gadsden flag	15
+Gaia hypothesis	16
+Galaxy	18
+Galen	12
+Galileo Galilei	39
+Gambler's fallacy	19
+Gambling	62
+Game	21
+Game Boy	14
+Game of Thrones	40
+Game theory	31
+Gamergate controversy	18
+Gamification	31
+Gamma-ray burst	12
+Ganesha	15
+Gantt chart	15
+Garage door	11
+Garbage collection (computer science)	15
+Garden	17
+Garden of Eden	14
+Gardening	13
+Garlic	28
+Garrison Keillor	14
+Garry Kasparov	12
+Gaslighting	28
+Gautama Buddha	50
+Gay	18
+Gaza Strip	16
+Gemstone	11
+Gender equality	12
+Gender identity	11
+Genderqueer	14
+Gene	21
+Gene Kelly	15
+Gene expression	12
+General Data Protection Regulation	180
+General Electric	11
+General Motors	22
+General contractor	14
+General relativity	25
+Generalized anxiety disorder	12
+Generation X	17
+Generation Y	23
+Generation Z	17
+Generative adversarial network	11
+Genesis (band)	14
+Genetic algorithm	13
+Genetic engineering	17
+Genetically modified organism	20
+Genetics	12
+Geneva	17
+Genghis Khan	17
+Genoa	17
+Genocide	15
+Genome	19
+Genotype	12
+Genre	15
+Genus	30
+Geocaching	12
+Geoffrey Chaucer	17
+Geographic coordinate system	26
+Geographic information system	24
+Geolocation	11
+Geology	12
+Geometry	13
+Georg Wilhelm Friedrich Hegel	21
+George Bernard Shaw	16
+George Carlin	22
+George Clooney	20
+George Eliot	17
+George Floyd	17
+George Frideric Handel	13
+George Gershwin	16
+George H. W. Bush	28
+George Harrison	24
+George III of the United Kingdom	15
+George Lakoff	21
+George Lucas	27
+George Orwell	54
+George R. R. Martin	20
+George S. Patton	12
+George Santayana	27
+George Soros	22
+George W. Bush	55
+George Wallace	11
+George Washington	49
+Georges Lemaître	12
+Georgia (U.S. state)	30
+Georgia (country)	29
+Georgia O'Keeffe	14
+Geotagging	11
+Gerald Ford	23
+Germ theory of disease	16
+German language	61
+Germans	13
+Germany	167
+Gerrymandering	15
+Gertrude Stein	12
+Gestapo	14
+Getting Things Done	30
+Gettysburg Address	23
+Ghana	31
+Ghostbusters	17
+Gibraltar	22
+Giclée	11
+Gift	11
+Gift economy	12
+Gilles Deleuze	12
+Ginger	23
+Gini coefficient	21
+Giordano Bruno	13
+Git	23
+Git (software)	22
+GitHub	14
+Glasgow	24
+Glass	18
+Glasses	11
+Glass–Steagall Act	17
+Glee (TV series)	11
+Gleiwitz incident	11
+Glob (programming)	15
+Global Positioning System	64
+Global city	12
+Global surveillance disclosures (2013–present)	11
+Global warming	61
+Globalization	14
+Glorious Revolution	13
+Glucose	17
+Gluten	17
+Gluten-free diet	16
+Glycerol	15
+Glyphosate	11
+Gnosticism	13
+Go (game)	28
+Goa	11
+Goal	11
+Goat	12
+God	139
+God the Father	15
+Godwin's law	79
+Godzilla	14
+Gold	31
+Gold IRA	13
+Gold standard	15
+Golden Globe Award	16
+Golden Rule	25
+Golden ratio	42
+Goldman Sachs	16
+Golem	15
+Golf	15
+Goliath	11
+Gollum	11
+Gone with the Wind (film)	14
+Good Friday	20
+Good Friday Agreement	17
+Goodhart's law	13
+Google	73
+Google Analytics	13
+Google Chrome	19
+Google Glass	20
+Google Maps	13
+Google Panda	17
+Google Penguin	14
+Google Play	11
+Google driverless car	14
+Gopher (protocol)	16
+Gordian Knot	11
+Gospel	15
+Gospel music	14
+Gospel of Matthew	18
+Gothic Revival architecture	14
+Gothic architecture	14
+Gottfried Wilhelm Leibniz	17
+Government	27
+Government of India	12
+Grace Hopper	22
+Graffiti	11
+Graham Greene	13
+Grammar	11
+Grammy Award	26
+Gramophone record	14
+Grand Canyon	20
+Grand Palace	11
+Grand Theft Auto V	14
+Granite	17
+Grape	12
+Graph theory	13
+Graphene	21
+Graphic design	19
+Graphic novel	17
+Graphical user interface	21
+Graphics processing unit	22
+Grateful Dead	20
+Gratitude	11
+Gravity	11
+Great Barrier Reef	14
+Great Britain	36
+Great Chicago Fire	11
+Great Depression	61
+Great Famine (Ireland)	17
+Great Fire of London	12
+Great Firewall	16
+Great Lakes	11
+Great Pacific Garbage Patch	13
+Great Pacific garbage patch	14
+Great Purge	11
+Great Recession	31
+Great Seal of the United States	12
+Great Society	12
+Great Wall of China	18
+Greece	73
+Greek language	72
+Greek mythology	30
+Greeks	13
+Green	13
+Green Bay Packers	15
+Green tea	16
+Greenhouse effect	16
+Greenhouse gas	28
+Greenland	26
+Greenpeace	12
+Greenwashing	18
+Greenwich Mean Time	14
+Greenwich Village	16
+Gregorian calendar	48
+Gregory Bateson	11
+Grenada	13
+Grep	13
+Greta Garbo	11
+Greta Thunberg	23
+Grocery store	14
+Grok	14
+Gross domestic product	37
+Groucho Marx	17
+Groundhog Day	18
+Groundhog Day (film)	24
+Groupthink	27
+Grover Cleveland	17
+Growth hacking	13
+Guam	18
+Guantanamo Bay detention camp	14
+Guanyin	14
+Guatemala	24
+Guerrilla warfare	11
+Guglielmo Marconi	15
+Guillermo del Toro	11
+Guinea	19
+Guinness World Records	15
+Guitar	30
+Gujarat	17
+Gulf Stream	14
+Gulf War	31
+Gulf of Mexico	15
+Gulf of Tonkin incident	21
+Guns N' Roses	22
+Gustav Klimt	16
+Gustav Mahler	16
+Gut flora	11
+Gutenberg Bible	12
+Guy Fawkes	15
+Guy Fawkes Night	18
+Guyana	23
+Gwyneth Paltrow	12
+Gym	14
+Gyroscope	11
+Gzip	12
+Gödel's incompleteness theorems	12
+Gödel, Escher, Bach	23
+H-index	18
+H. G. Wells	33
+H. L. Mencken	23
+H. P. Lovecraft	49
+H. R. Giger	11
+HAL 9000	36
+HATEOAS	12
+HBO	22
+HDMI	29
+HEPA	29
+HIV	29
+HMAC	13
+HSL and HSV	11
+HTML	78
+HTML5	58
+HTTP 404	12
+HTTP Live Streaming	12
+HTTP Secure	18
+HTTP Strict Transport Security	31
+HTTP cookie	671
+HTTP referer	13
+HTTPS	56
+HVAC	17
+Habeas corpus	18
+Hachikō	11
+Hackathon	22
+Hackerspace	11
+Hades	11
+Hadith	16
+Hadrian	14
+Haggis	16
+Hagia Sophia	15
+Haiku	30
+Hair	16
+Haiti	32
+Hajj	16
+Halliburton	11
+Halloween	76
+Halo effect	15
+Halting problem	20
+Hamas	13
+Hamburg	32
+Hamlet	16
+Hampshire	14
+Han Chinese	12
+Han dynasty	11
+Hangul	12
+Hanlon's razor	26
+Hannah Arendt	20
+Hannibal	11
+Hannibal Lecter	11
+Hanoi	11
+Hans Christian Andersen	25
+Hans Rosling	14
+Hanseatic League	12
+Hansel and Gretel	12
+Hanukkah	31
+Hanuman	15
+Happiness	31
+Hard disk drive	25
+Hard problem of consciousness	14
+Hard rock	13
+Harlem	13
+Harley-Davidson	11
+Harper Lee	12
+Harriet Tubman	21
+Harrison Ford	14
+Harry Belafonte	12
+Harry Houdini	16
+Harry Potter	49
+Harry S. Truman	29
+Haruki Murakami	16
+Harvard University	33
+Harvey Milk	13
+Hash function	20
+Hash table	13
+Hashtag	26
+Havana	13
+Haversine formula	23
+Hawaii	42
+Hawthorne effect	16
+Hayao Miyazaki	24
+Headache	11
+Health	39
+Health Insurance Portability and Accountability Act	27
+Health care	35
+Health insurance	26
+Heart	18
+Heart of Darkness	13
+Heart rate	17
+Heartbleed	13
+Heat	19
+Heating, ventilation, and air conditioning	16
+Heaven	22
+Heaven's Gate (religious group)	14
+Heavy metal music	25
+Hebrew	12
+Hebrew Bible	15
+Hebrew calendar	13
+Hebrew language	46
+Hedge fund	14
+Hedonic treadmill	15
+Hedonism	13
+Hedy Lamarr	12
+Heinrich Heine	13
+Heinrich Himmler	15
+Helen Keller	20
+Helena Blavatsky	11
+Heliocentrism	13
+Helium	11
+Hell	22
+Help:Authority control	12
+Help:Category	11
+Help:Contents	19
+Help:IPA	16
+Help:IPA for English	72
+Help:IPA for English#Key	39
+Help:Installing Japanese character sets	42
+Help:Japanese	17
+Help:Maintenance template removal	14
+Help:Pronunciation respelling key	21
+Help:Wiki markup	11
+Hemp	23
+Henri Cartier-Bresson	19
+Henri Matisse	16
+Henri Poincaré	11
+Henry David Thoreau	36
+Henry Ford	31
+Henry James	15
+Henry Kissinger	19
+Henry VI of England	13
+Henry VIII of England	27
+Henry Wadsworth Longfellow	11
+Heracles	11
+Heraclitus	17
+Herb	11
+Herbert Hoover	20
+Hercule Poirot	11
+Herd immunity	14
+Herman Melville	64
+Hermann Göring	11
+Hermann Hesse	12
+Hermeneutics	15
+Hermeticism	11
+Hero's journey	21
+Herodotus	14
+Heroin	19
+Hertfordshire	13
+Hertz	18
+Hexadecimal	16
+Hezbollah	21
+Hieronymus Bosch	15
+Higgs boson	17
+High Efficiency Image File Format	11
+High availability	16
+High dynamic range imaging	14
+High fantasy	13
+High frequency	19
+High school	16
+High-definition television	12
+High-definition video	17
+High-intensity interval training	15
+Hildegard of Bingen	13
+Hillary Clinton	35
+Himalayas	24
+Hindi	17
+Hindu	38
+Hinduism	34
+Hip hop music	22
+Hippie	11
+Hippocampus	12
+Hippocrates	14
+Hippocratic Oath	28
+Histamine	11
+History	18
+History of the Internet	17
+Hitler	12
+Ho Chi Minh City	14
+Hogmanay	13
+Hokkaido	14
+Hokusai	13
+Holi	25
+Holism	14
+Holland	11
+Hollow Earth	12
+Hollywood	41
+Hollywood Walk of Fame	11
+Holocaust	15
+Holocene	11
+Holocene extinction	11
+Holodomor	15
+Holy Roman Empire	16
+Holy See	15
+Holy Spirit	28
+Holy Week	13
+Home	11
+Home Alone	11
+Home automation	13
+Home improvement	12
+Homeopathy	20
+Homeostasis	18
+Homer	27
+Homeschooling	15
+Homestake Mine (South Dakota)	11
+Homo sapiens	16
+Homosexuality	22
+Honduras	25
+Honey	18
+Hong Kong	60
+Horror film	13
+Horse	18
+Horsepower	31
+Horus	15
+Hosni Mubarak	15
+Hospital	11
+Hosts (file)	156
+Hotel	13
+House	11
+House Un-American Activities Committee	16
+House music	13
+House of Cards (U.S. TV series)	12
+Houston	31
+How to Win Friends and Influence People	13
+Howard Gardner	11
+Howard Hughes	12
+Huawei	16
+Hubble Space Telescope	15
+Hubris	11
+Hudson River	11
+Hulk (comics)	16
+Human	91
+Human Development Index	14
+Human Genome Project	16
+Human Rights Watch	12
+Human body	14
+Human papillomavirus	13
+Human resource management	12
+Human rights	45
+Humanism	22
+Humidity	13
+Humour	14
+Humphrey Bogart	11
+Hundred Years' War	11
+Hungary	59
+Hunter S. Thompson	16
+Hurricane Harvey	19
+Hurricane Irma	18
+Hurricane Katrina	42
+Hurricane Sandy	25
+Hyde Park, London	12
+Hydraulic fracturing	21
+Hydrogen	21
+Hydrogen peroxide	13
+Hydrogen sulfide	11
+Hydroponics	12
+Hypatia	13
+Hype cycle	17
+HyperCard	13
+Hyperlink	13
+Hypertension	21
+Hypertext	11
+Hypertext Transfer Protocol	41
+Hypervisor	12
+Hypnosis	17
+Hypothalamus	11
+Hypothermia	14
+I	13
+I Ching	15
+I Have a Dream	11
+I know it when I see it	13
+IBM	24
+ICANN	12
+ICalendar	17
+IEEE 802.11	13
+IGN	16
+IKEA	14
+IMDb	15
+IOS	47
+IOS jailbreaking	14
+IP Code	28
+IP address	69
+IPad	14
+IPhone	37
+IPod	22
+IPsec	11
+IPv4	27
+IPv6	44
+IQ classification	14
+ISBN (identifier)	40
 ISO 2709	13
-ISO 3166-1 alpha-2	24
-ISO 4217	16
-ISO 8601	36
-Ice hockey	12
-Iceland	23
-Illinois	22
-Image	15
-Immanuel Kant	19
-Immune system	17
-Impact factor	12
-Impostor syndrome	17
-Independence Day (United States)	14
-India	83
-India Online	19
-Indonesia	47
-Industrial Revolution	15
-Industry	11
-Inflation	11
-Influenza	11
-Information	12
-Information technology	15
-Initial public offering	13
-Instagram	12
-Insurance	25
-Intellectual property	11
-Interior design	13
-International Monetary Fund	12
-International Phonetic Alphabet	12
-International Space Station	14
-International Standard Book Number	54
-International Standard Serial Number	14
-International Women's Day	16
-International Workers' Day	11
-Internet	74
-Internet Movie Database	13
-Internet Relay Chat	22
-Internet meme	12
-Internet of Things	18
-Internet of things	26
-Internet service provider	14
-Internet troll	11
-Intersectionality	11
-Intranet	15
-Iowa	11
-Iran	37
-Iraq	23
-Iraq War	18
-Ireland	33
-Irish language	16
-Iron	18
-Isaac Asimov	18
-Isaac Newton	19
-Islam	39
-Islamic State of Iraq and the Levant	25
-Israel	40
-Israelites	11
-Italian language	15
-Italy	71
-J. R. R. Tolkien	23
-JPEG	16
-JSON	27
-Jamaica	13
-James Baldwin	12
-James Clerk Maxwell	12
-James Cook	12
-James Madison	14
-Jane Austen	12
-Japan	76
-Japanese language	14
-Java (programming language)	27
-JavaScript	48
-Javascript	19
-Jazz	18
-Jean-Jacques Rousseau	14
-Jean-Paul Sartre	11
-Jeff Bezos	14
-Jerusalem	19
-Jesus	67
-Jew	11
-Jewish	16
-Jews	20
-Jimi Hendrix	13
-Jimmy Carter	15
-Joe Biden	15
-Johann Sebastian Bach	18
-Johann Wolfgang von Goethe	16
-John Adams	16
-John Brown (abolitionist)	11
-John F. Kennedy	26
-John Lennon	21
-John Locke	11
-John Maynard Keynes	14
-John McCain	13
-John Williams	11
-John the Baptist	11
-Jordan	15
-Jorge Luis Borges	14
-Joseph Campbell	18
-Joseph Goebbels	11
-Joseph Stalin	14
-Journalist	12
-Judaism	22
-Judy Garland	14
-Julius Caesar	13
-Jupiter	14
-Justin Bieber	13
-KISS principle	30
-Kabbalah	15
-Kaizen	14
-Kamala Harris	12
-Karl Marx	26
-Karl Popper	11
-Kazakhstan	12
-Kentucky	12
-Kenya	19
-Killing of George Floyd	11
-Knowledge	11
-Korean War	13
-Ku Klux Klan	11
-Kuala Lumpur	13
-Kurt Vonnegut	13
-Kyoto Protocol	12
-Kübler-Ross model	16
-LAMP (software bundle)	23
-LGBT	22
-Labor Day	16
-Lady Gaga	13
-Lakshmi	11
-Laozi	14
-Las Vegas	14
-Latin	34
-Latin America	13
-Latin language	14
-Latvia	17
-Law	15
-Lawyer	16
-Learning	14
-Lebanon	17
-Lent	16
-Leo Tolstoy	15
-Leonard Cohen	11
-Leonardo da Vinci	30
-Lewis Carroll	15
-Liberalism	12
-Libertarianism	11
-Library of Congress	11
-Libya	16
-Light	12
-Light-emitting diode	19
-Link rot	12
-Linus Torvalds	11
-Linux	35
-List of HTTP status codes	13
-List of ISO 639-1 codes	14
-List of cognitive biases	24
-List of countries by GDP (PPP) per capita	14
-List of countries by GDP (nominal)	18
-List of social networking websites	11
-List of tz database time zones	15
-Lithuania	11
-Little Ice Age	13
-Liverpool	13
-Loan	15
-Logic	15
-London	59
-Long Island	16
-Los Angeles	49
-Louisiana	12
-Love	17
-Ludwig Mies van der Rohe	13
-Ludwig van Beethoven	17
-Lutheranism	12
-Luxembourg	20
-Lyndon B. Johnson	14
-MD5	16
-MIT License	23
-MP3	18
-MTV	12
-MacGuffin	13
-MacOS	13
-Machine learning	26
-Machu Picchu	11
-Madonna (entertainer)	12
-Madrid	17
-Magna Carta	14
-Magnetic resonance imaging	14
-Maharashtra	12
-Mahatma Gandhi	22
-Main Page	218
-Major League Baseball	11
-Major depressive disorder	11
-Malaysia	36
-Malcolm X	11
-Malta	23
-Malware	27
-Man-in-the-middle attack	26
-Manga	17
-Manhattan	25
-Manhattan Project	11
-Mao Zedong	14
-Margaret Thatcher	15
-Marie Curie	11
-Marilyn Monroe	11
-Mark Twain	28
-Mark Zuckerberg	23
-Markdown	21
-Market environment	23
-Marketing	25
-Marriage	22
-Mars	12
-Marshall McLuhan	11
-Marshall Plan	13
-Martin Buber	11
-Martin Heidegger	12
-Martin Luther	27
-Martin Luther King Jr.	11
-Martin Luther King, Jr.	24
-Martin Scorsese	11
-Marvel Cinematic Universe	12
-Marvel Comics	18
-Marxism	14
-Mary Shelley	14
-Maryland	19
-Maslow's hierarchy of needs	51
-Massachusetts	19
-Massachusetts Institute of Technology	11
-Massive open online course	25
-Mathematics	16
-Mauritius	12
-Maya Angelou	16
-McCarthyism	13
-McDonald's	12
-Me Too movement	13
-Meditation	15
-Mediterranean Sea	17
-Melbourne	18
-Meme	23
-Memorial Day	21
-Memory	13
-Metabolism	12
-Metaphysics	11
-Metastasis	11
-Metcalfe's law	15
-Metroblogging	21
-Mexico	42
-Michael Jackson	15
-Michael Jordan	14
-Michelangelo	20
-Michelle Obama	11
-Michigan	13
-Microsoft	24
-Microsoft Windows	24
-Middle Ages	16
-Middle East	21
-Mihaly Csikszentmihalyi	18
-Miles Davis	11
-Milgram experiment	23
-Millennials	18
-Mind	13
-Mind map	12
-Minimum viable product	26
-Minnesota	19
-Mitt Romney	11
-Mobile app	12
-Mobile phone	16
-Model–view–controller	17
-Money	19
-Montreal	16
-Monty Hall problem	12
-Monty Python	13
-Moon	20
-Moore's law	31
-Morocco	24
-Mosaic (web browser)	11
-Moscow	16
-Moses	18
-Mother Teresa	17
-Motion Picture Production Code	14
-Multi-factor authentication	13
-Multi-level marketing	15
-Multiverse	12
-Mumbai	14
-Munich	14
-Murder	14
-Murphy's law	18
-Music	14
-Muslim	28
-Mustafa Kemal Atatürk	12
-Myanmar	18
-Myers-Briggs Type Indicator	13
-NASA	27
-NATO	13
-NBC	14
-Nancy Pelosi	11
-Naples	12
-Napoleon	14
-Narcissism	13
-Narcissistic personality disorder	15
-Narendra Modi	11
-Nassau County, New York	27
-National Football League	12
-National Health Service	13
-National Register of Historic Places	15
-Native Americans in the United States	12
-Natural language processing	12
-Nature	11
-Naturism	11
-Nazi Germany	23
-Nazi Party	11
-Nazism	16
-Neanderthal	11
-Near field communication	13
-Neil Gaiman	13
-Neil deGrasse Tyson	12
-Nelson Mandela	14
-Neoliberalism	12
-Neolithic	13
-Nepal	24
-Net Promoter	11
-Net neutrality	11
-Netflix	15
-Netherlands	50
-Network effect	14
-Neuro-linguistic programming	16
-Neuroplasticity	15
-Nevada	18
-New Deal	11
-New Delhi	11
-New Jersey	35
-New Mexico	14
-New Orleans	13
-New South Wales	16
-New Testament	17
-New Year	13
-New York	26
-New York (state)	49
-New York City	90
-New York Times	14
-New Zealand	46
-Niccolò Machiavelli	11
-Niels Bohr	11
-Nigeria	18
-Nikola Tesla	26
-Nineteen Eighty-Four	38
-Noam Chomsky	22
-Non-governmental organization	12
-Normal distribution	16
-North America	23
-North American Free Trade Agreement	11
-North Carolina	19
-North Korea	14
-Northern Ireland	14
-Norway	31
-November 2015 Paris attacks	11
-Nuclear power	11
-OAuth	16
-OSI model	11
-Object-oriented programming	14
-Obsessive–compulsive disorder	15
-Occam's razor	22
-Occupy Wall Street	12
-Occupy movement	11
-Odyssey	13
-Office of Fair Housing and Equal Opportunity	15
-Ohio	20
-Old Testament	21
-Olive oil	22
-Olympic Games	11
-Omega-3 fatty acid	18
-Onion	11
-Online casino	49
-Online gambling	15
-Online shopping	11
-Ontario	19
-Ontology	12
-Open access	52
-Open source	32
-Open-source software	20
-OpenID	12
-Operating system	17
-Operation Gladio	11
-Operation Northwoods	12
-Oprah Winfrey	12
-Optical character recognition	16
-Order of the British Empire	15
-Oregon	16
-Orson Welles	13
-Oscar Wilde	22
-Ottoman Empire	35
-Overton window	11
-Oxford English Dictionary	12
-Oxygen	22
-PCRE	54
-PDF	15
-PH	14
-PHP	20
-PRISM (surveillance program)	12
-PROTECT IP Act	12
-Pablo Picasso	14
-Pacific Ocean	13
-PageRank	31
-Pain	12
-Pakistan	28
-Panama	14
-Pandemic	15
-Pareidolia	12
-Parenting	11
-Pareto principle	40
-Paris	44
-Paris Agreement	12
-Parkinson's disease	13
-Parkour	14
-Parliament of the United Kingdom	12
-Passover	12
-Patient Protection and Affordable Care Act	22
-Paul McCartney	14
-Paul the Apostle	11
-Peak oil	12
-Peer-to-peer	15
-Pennsylvania	24
-People's Republic of China	12
-Percent-encoding	12
-Periodic table	13
-Permaculture	12
-Personal computer	13
-Peru	19
-Pest control	11
-Peter Drucker	15
-Peter Singer	15
-Philadelphia	21
-Philippines	39
-Philosophy	26
-Phishing	21
-Physical exercise	11
-Physician	14
-Physics	11
-Piano	13
-Pink Floyd	14
-Pinyin	19
-Placebo	13
-Plastic	11
-Platform as a service	12
-Plato	27
-PlayStation 3	11
-PlayStation 4	12
-Pleistocene	11
-Plumbing	16
-Podcast	23
-Poetry	11
-Poker	22
-Poland	31
-Political correctness	11
-Politician	12
-Politics	17
-Pomodoro Technique	27
-Ponzi scheme	14
-Pop music	12
-Portable Document Format	11
-Portable Network Graphics	21
-Portmanteau	11
-Portugal	23
-Posttraumatic stress disorder	24
-Potato	13
-Poverty	13
-Prayer	14
-Precautionary principle	12
-Premier League	12
-President of the United States	37
-Prince (musician)	15
-Prison	13
-Prisoner's dilemma	14
-Property	12
-Protein	21
-Psychological projection	16
-Psychology	23
-PubMed Central	11
-PubMed Identifier	15
-Public domain	87
-Public-key cryptography	18
-Puerto Rico	21
-Python (programming language)	11
-QAnon	12
-QR Code	20
-QR code	24
-Qatar	17
-Quakers	13
-Quantitative easing	14
-Quantum computing	13
-Quantum entanglement	15
-Quantum mechanics	17
-Quebec	12
-Queen (band)	12
-Quran	17
-REST	24
-RSS	62
-RSS (file format)	15
-Rabindranath Tagore	15
-Race and ethnicity in the United States Census	12
-Racism	12
-Radio	15
-Radio-frequency identification	14
-Ralph Waldo Emerson	23
-Ramadan	11
-Ramones	11
-Random-access memory	12
-Ransomware	16
-Raspberry Pi	17
-Ray Bradbury	12
-Reading (process)	15
-Real estate	17
-Real estate broker	49
-Record producer	14
-Regular expression	28
-Religion	24
-Rembrandt	14
-Renaissance	15
-René Descartes	11
-Representational State Transfer	11
-Representational state transfer	35
-Republic of Ireland	16
-Republican Party (United States)	12
-Research	13
-Resource Description Framework	12
-Responsive web design	23
-Retail	12
-Return on investment	14
-Rhetoric	11
-Rhythm and blues	12
-Richard Branson	11
-Richard Dawkins	16
-Richard Feynman	20
-Richard Nixon	19
-River Thames	12
-Robin Williams	18
-Rock music	34
-Roe v. Wade	18
-Rolling Stone	11
-Roman Catholic	13
-Roman Catholic Church	16
-Roman Empire	20
-Romania	27
-Rome	22
-Ronald Reagan	19
-Rosa Parks	14
-Roulette	12
-Royal Air Force	12
-Royal Navy	12
-Rsync	11
-Rudolf Steiner	14
-Rudyard Kipling	11
-Rumi	13
-Russia	62
-Russian Empire	12
-Russian language	19
-Ruth Bader Ginsburg	12
-Rwanda	14
-SHA-1	11
-SHA-2	22
-SMART criteria	19
-SQL	11
-SQL injection	11
-SWOT analysis	13
-Saint Nicholas	12
-Saint Patrick's Day	12
-Saint Petersburg	17
-San Diego	14
-San Francisco	32
-Sandy Hook Elementary School shooting	13
-Sanskrit	17
-Sarbanes–Oxley Act	11
-Satan	15
-Satire	12
-Satoshi Nakamoto	16
-Saturn	12
-Saturnalia	12
-Saudi Arabia	20
-Scalable Vector Graphics	18
-Schengen Area	11
-Schrödinger's cat	12
-Science	16
-Science fiction	24
-Scientific method	28
-Scotland	23
-Search engine optimization	87
-Search engine results page	11
-Seattle	14
-Second Amendment to the United States Constitution	15
-Second World War	11
-Second law of thermodynamics	11
-Secure Shell	22
-Security-Enhanced Linux	11
-Seed	11
-Semantic Web	11
-Sender Policy Framework	13
-Seoul	11
-September 11 attacks	25
-Serbia	20
-Serenity Prayer	15
-Serotonin	14
-Server (computing)	11
-Server Name Indication	11
-Service	11
-Seven Years' War	11
-Seven deadly sins	11
-Shanghai	15
-Sharia	12
-Sherlock Holmes	16
-Shiva	13
-Shooting of Michael Brown	11
-Shooting of Trayvon Martin	13
-Sic	11
-Sicily	14
-Sigmund Freud	29
-Simple Mail Transfer Protocol	17
-Simple Network Management Protocol	12
-Singapore	39
-Single-page application	12
-Six-Day War	11
-Slavery	17
-Slot machine	35
-Slovakia	16
-Slovenia	15
-Smallpox	11
-Smartphone	25
-Social bookmarking	174
-Social capital	11
-Social media	34
-Social media marketing	11
-Social network	15
-Socialism	18
-Socrates	11
-Software	26
-Software as a service	27
-Sokal affair	13
-Solid-state drive	19
-Soul	11
-Sound	12
-South Africa	38
-South America	16
-South Carolina	11
-South Korea	38
-Southeast Asia	13
-Southern United States	17
-Soviet Union	38
-SpaceX	14
-Spain	52
-Spanish flu	12
-Spanish language	26
-Special:FundraiserRedirector?utm source=donate&utm medium=sidebar&utm campaign=C13 en.wikipedia.org&uselang=en	22
-Species	11
-Spirit	11
-Spirituality	17
-Sports betting	23
-Sri Lanka	28
-Stan Lee	11
-Standard deviation	12
-Stanley Kubrick	13
-Star Trek	12
-Star Trek: The Next Generation	11
-Star Wars	18
-Statistics	11
-Steampunk	20
-Steel	11
-Stephen Hawking	20
-Stephen King	12
-Steve Jobs	33
-Steven Spielberg	16
-Stockholm syndrome	20
-Stoicism	11
-Stonewall riots	11
-Stop Online Piracy Act	23
-Storytelling	11
-Straw man	19
-Streaming media	12
-Streisand effect	18
-String theory	14
-Stroke	11
-Stub	12
-Stuxnet	14
-Suffolk County, New York	32
-Sugar	12
-Suicide	12
-Sun	25
-Super Bowl	15
-Superman	21
-Supply	12
-Supreme Court of the United States	14
-Surgery	11
-Suriname	11
-Survivorship bias	12
-Sustainability	12
-Sweden	36
-Switzerland	52
-Sydney	23
-Sykes–Picot Agreement	11
-Synesthesia	18
-Syria	23
-Søren Kierkegaard	12
-T-shirt	16
-T. S. Eliot	12
-Taiwan	28
-Tajikistan	11
-Tanzania	13
-Tarot	14
-Taxicab	102
-Taylor Swift	11
-Teacher	13
-Techengage	16
-Technological singularity	28
-Technology	13
-Ted Cruz	12
-Teleology	11
-Television	31
-Template documentation	24
-Tennessee	14
-Test-driven development	18
-Tetrahydrocannabinol	14
-Texas	37
-Thailand	29
-Thanksgiving	31
-Thanksgiving (United States)	12
-The Beatles	36
-The Emperor's New Clothes	12
-The Godfather	11
-The Great Gatsby	14
-The Great Wave off Kanagawa	12
-The Guardian	11
-The Hitchhiker's Guide to the Galaxy	20
-The Holocaust	17
-The Jetsons	13
-The Lord of the Rings	17
-The Matrix	17
-The New York Times	23
-The Rolling Stones	16
-The Velvet Underground	11
-Theodore Roosevelt	23
-Theology	11
-Theory	11
-Theory of mind	11
-Theory of multiple intelligences	11
-There are known knowns	11
-Thinking, Fast and Slow	14
-Thomas Aquinas	12
-Thomas Edison	22
-Thomas Hobbes	13
-Thomas Jefferson	26
-Thought	14
-Three Laws of Robotics	15
-Tiananmen Square protests of 1989	11
-Tibet	12
-Tim Berners-Lee	17
-Time (magazine)	18
-Times Square	11
-Timothy Leary	11
-Tokyo	21
-Tony Award	11
-Tor (anonymity network)	11
-Torah	12
-Toronto	25
-Torque	15
-Tourism	13
-Trade union	13
-Traditional Chinese medicine	12
-Tragedy of the commons	19
-Transceiver	15
-Transclusion	24
-Transhumanism	17
-Transmission Control Protocol	17
-Transport Layer Security	52
-Tree	11
-Trinidad and Tobago	11
-Trinity	12
-TripAdvisor	16
-Troll (Internet)	15
-Trolley problem	11
-Truth	16
-Tunisia	12
-Turing test	29
-Turkey	44
-Turmeric	13
-Twitter	37
-U.S. state	28
-UK	15
-UNESCO	23
-URL	18
-USA	14
-USB	14
-USB flash drive	11
-UTC	12
-Ukraine	32
-Ultraviolet	18
-Uncanny valley	17
-Uncertainty principle	13
-Unconference	20
-Unicode	24
-Uniform Resource Locator	11
-United Arab Emirates	24
-United Kingdom	108
-United Nations	40
-United States	208
-United States Air Force	13
-United States Bill of Rights	12
-United States Congress	19
-United States Constitution	26
-United States Declaration of Independence	27
-United States Environmental Protection Agency	12
-United States House of Representatives	18
-United States Navy	17
-United States Secretary of State	11
-United States Senate	15
-United States dollar	18
-Unity (game engine)	15
-Universal Declaration of Human Rights	12
-Universe	16
-Unix time	12
-Unmanned aerial vehicle	13
-Uruguay	14
-Usenet	13
-User interface	16
-V6 engine	12
-VHF	14
-VHS	11
-Valentine's Day	23
-Various	38
-Vaudeville	12
-Veganism	11
-Venezuela	15
-Venice	18
-Venture capital	14
-Veterans Day	13
-Victor Hugo	14
-Victorian era	18
-Video game	15
-Video game developer	11
-Vienna	15
-Vietnam	20
-Vietnam War	26
-Vincent van Gogh	16
-Vinegar	12
-Vint Cerf	12
-Virginia	19
-Virginia Woolf	16
-Virtual machine	12
-Virtual private network	29
-Virtual reality	16
-Vitamin	12
-Vladimir Lenin	16
-Vladimir Putin	23
-Voice over IP	13
-Voltage	15
-W. E. B. Du Bois	14
-W. Edwards Deming	12
-WYSIWYG	12
-Wabi-sabi	15
-Wales	15
-Wallpaper (computing)	27
-Walt Disney	12
-War of 1812	16
-Warren Buffett	22
-Warsaw	13
-Washington (state)	12
-Washington, D.C.	26
-Water	26
-Water damage	14
-Waterfall model	16
-Waterproofing	12
-Wayback Machine	15
-Wealth management	11
-Web 2.0	22
-Web application	12
-Web browser	19
-Web design	21
-Web search engine	14
-Web widget	17
-Website	34
-Weight loss	13
-West Virginia	11
-Westboro Baptist Church	12
-Western world	21
-WhatsApp	13
-White House	12
-Wi-Fi	22
-Wicked problem	11
-Wiki	54
-Wikipedia	34
-Wikipedia:Citation needed	101
-Wikipedia:Citing sources	16
-Wikipedia:Contact us	44
-Wikipedia:Copyrights	14
-Wikipedia:General disclaimer	13
-Wikipedia:Link rot	11
-Wikipedia:Please clarify	12
-Wikipedia:Stub	29
-Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License	97
-Wikipedia:Text of the GNU Free Documentation License	29
-Wikipedia:Verifiability	17
-Wildcard character	26
-William Blake	14
-William James	20
-William Shakespeare	32
-Wine	13
-Wine tasting descriptors	11
-Winston Churchill	20
-Winter solstice	12
-Wolfgang Amadeus Mozart	15
-Women's rights	12
-Wood	11
-Woodrow Wilson	17
-WordPress	31
-Works Progress Administration	11
-World Health Organization	21
-World Heritage Site	13
-World War I	61
-World War II	105
-World Wide Web	34
-Writing	23
-X.509	12
-XML	20
-Yale University	11
-Yelp	16
-Yin and yang	18
-Yoga	22
-Yom Kippur	11
-YouTube	27
-Zeus	15
-Zimbabwe	13
+ISO 3166-1	21
+ISO 3166-1 alpha-2	52
+ISO 3166-2	13
+ISO 4217	28
+ISO 639	13
+ISO 8601	81
+ISO 9000	14
+ISSN (identifier)	12
+ITIL	13
+ITunes	16
+Ian Fleming	12
+Ibuprofen	16
+Icarus	11
+Ice age	12
+Ice cream	13
+Ice hockey	19
+Iceland	56
+Idaho	19
+Idea	17
+Identity politics	15
+Ideology	12
+Ides of March	11
+Idiocracy	22
+Idris Elba	11
+Ignatius of Loyola	13
+Ignaz Semmelweis	14
+Igor Stravinsky	16
+Ikigai	11
+Iliad	16
+Illinois	41
+Illuminated manuscript	13
+Illuminati	22
+Illusory superiority	14
+Image	27
+Imagination	12
+Imbolc	12
+Immanuel Kant	42
+Immigration	13
+Immortality	11
+Immune system	36
+Impact factor	20
+Imperative programming	11
+Impostor syndrome	41
+Impressionism	23
+Improvised explosive device	11
+In vitro fertilisation	13
+Inanna	11
+Incandescent light bulb	13
+Incarceration in the United States	16
+Inception	14
+Income tax	12
+Independence Day (United States)	36
+India	168
+India Online	22
+Indian Ocean	16
+Indian cuisine	13
+Indian independence movement	13
+Indian rupee	11
+Indian subcontinent	14
+Indiana	16
+Indie rock	12
+Indigenous peoples	15
+Indigenous peoples of the Americas	26
+Indira Gandhi	15
+Individual	13
+Individualism	13
+Indo-European languages	17
+Indonesia	97
+Indra	11
+Inductive reasoning	15
+Indulgence	11
+Industrial Revolution	31
+Industry	13
+Industry 4.0	18
+Infection	13
+Inferno (Dante)	13
+Infinity	11
+Inflammation	26
+Inflation	26
+Influencer marketing	16
+Influenza	18
+Infographic	15
+Information	25
+Information Age	17
+Information security	11
+Information technology	39
+Information theory	16
+Infrared	20
+Infrastructure	11
+Initial public offering	18
+Innovation	30
+Inquisition	14
+Insect	18
+Insomnia	18
+Instagram	32
+Instant messaging	19
+Instant-runoff voting	16
+Insulin	20
+Insurance	51
+Integrated development environment	24
+Intel	11
+Intellectual	12
+Intellectual property	26
+Intelligence	20
+Intelligence quotient	17
+Intelligent design	16
+Interactive fiction	12
+Intergovernmental Panel on Climate Change	17
+Interior design	22
+Internal combustion engine	11
+International Monetary Fund	25
+International Organization for Standardization	15
+International Phonetic Alphabet	22
+International Space Station	32
+International Standard Atmosphere	11
+International Standard Book Number	115
+International Standard Serial Number	31
+International System of Units	18
+International Talk Like a Pirate Day	14
+International Women's Day	42
+International Workers' Day	19
+Internationalization and localization	16
+Internet	151
+Internet Archive	13
+Internet Control Message Protocol	16
+Internet Explorer	15
+Internet Information Services	12
+Internet Message Access Protocol	12
+Internet Movie Database	17
+Internet Protocol	24
+Internet Relay Chat	54
+Internet access	15
+Internet forum	16
+Internet meme	22
+Internet of Things	52
+Internet of things	69
+Internet protocol suite	21
+Internet service provider	30
+Internet troll	22
+Internment of Japanese Americans	16
+Interpersonal relationship	16
+Intersectionality	29
+Intersex	15
+Interstate Highway System	18
+Interstellar (film)	11
+Intranet	37
+Inuit	11
+Invasion of the Body Snatchers	11
+Invasive species	11
+Invention	11
+Inverse-square law	11
+Inversion of control	20
+Investment	18
+Invisible hand	13
+Iowa	17
+Iptables	15
+Iq	18
+Iqaluit	14
+Iquitos	12
+Iran	76
+Iran hostage crisis	16
+Iranian Revolution	13
+Iraq	48
+Iraq War	36
+Ireland	64
+Irish language	26
+Irish people	11
+Iron	34
+Iron Curtain	16
+Iron Maiden	14
+Iron Man	12
+Ironman Triathlon	16
+Iroquois	14
+Irritable bowel syndrome	16
+Irving Berlin	12
+Isaac Asimov	38
+Isaac Newton	51
+Isambard Kingdom Brunel	17
+Isis	16
+Islam	80
+Islamic State of Iraq and the Levant	46
+Islamic calendar	15
+Isle of Man	19
+Israel	80
+Israel Defense Forces	14
+Israeli West Bank barrier	11
+Israelites	29
+Istanbul	24
+It's a Wonderful Life	20
+It's the economy, stupid	11
+Italian cuisine	18
+Italian language	30
+Italy	128
+Ivan Pavlov	13
+Ivory Coast	14
+Izakaya	12
+I²C	17
+J. Edgar Hoover	15
+J. J. Abrams	11
+J. K. Rowling	26
+J. M. W. Turner	12
+J. R. R. Tolkien	53
+JPEG	38
+JSON	65
+JSONP	17
+JSTOR	13
+Jack Dorsey	15
+Jack Kerouac	16
+Jack Kirby	23
+Jack London	16
+Jack Welch	13
+Jackie Chan	13
+Jackpot	16
+Jackson Pollock	27
+Jacques Derrida	11
+Jaggery	11
+Jaguar	11
+Jainism	23
+Jaipur	14
+Jakarta	23
+Jamaica	32
+James A. Garfield	13
+James Baldwin	16
+James Bond	30
+James Brown	24
+James Buchanan	11
+James Cameron	16
+James Clerk Maxwell	19
+James Cook	24
+James Dean	14
+James Hansen	15
+James II of England	14
+James Joyce	24
+James Lovelock	12
+James Madison	27
+James Randi	13
+James T. Kirk	15
+James Taylor	12
+James Watt	12
+Jane Austen	37
+Jane Eyre	13
+Jane Goodall	14
+Jane Jacobs	18
+Janet Napolitano	11
+Janis Joplin	16
+Janus	16
+Japan	152
+Japanese language	33
+Japanese people	11
+Jared Diamond	14
+Jared Kushner	14
+Jaron Lanier	12
+Java	16
+Java (programming language)	55
+Java virtual machine	11
+JavaScript	97
+Javascript	25
+Jawaharlal Nehru	19
+Jaws (film)	14
+Jay-Z	27
+Jazz	40
+Jean Baudrillard	16
+Jean Giraud	15
+Jean Piaget	12
+Jean-Jacques Rousseau	28
+Jean-Michel Basquiat	11
+Jean-Paul Sartre	20
+Jeb Bush	15
+Jeff Bezos	38
+Jeff Sessions	11
+Jeffrey Epstein	11
+Jehovah's Witnesses	12
+Jennifer Lopez	16
+Jeremy Bentham	16
+Jeremy Irons	11
+Jerome	13
+Jerusalem	32
+Jesse Owens	13
+Jesuit	12
+Jesus	130
+Jesus Christ	13
+Jevons paradox	12
+Jew	20
+Jewellery	13
+Jewish	22
+Jews	41
+Jiddu Krishnamurti	15
+Jim Crow laws	22
+Jim Jones	12
+Jim Morrison	18
+Jimi Hendrix	30
+Jimmy Carter	31
+Jimmy Page	12
+Joan Baez	11
+Joan Miró	12
+Joan of Arc	17
+Joe Biden	36
+Joe Lieberman	11
+Johann Sebastian Bach	36
+Johann Wolfgang von Goethe	34
+Johannes Brahms	12
+Johannes Gutenberg	15
+Johannes Kepler	11
+Johannes Vermeer	14
+Johannesburg	13
+Johari window	11
+John Adams	23
+John Archibald Wheeler	12
+John Brown (abolitionist)	21
+John C. Lilly	11
+John Cage	27
+John Calvin	14
+John Coltrane	12
+John D. Rockefeller	12
+John Dewey	22
+John Donne	11
+John F. Kennedy	52
+John Henry Newman	11
+John Hodgman	11
+John Kerry	19
+John Lennon	43
+John Locke	28
+John Maynard Keynes	27
+John McCain	22
+John Milton	17
+John Muir	18
+John Ruskin	13
+John Searle	11
+John Steinbeck	15
+John Stuart Mill	22
+John Travolta	13
+John Wayne	13
+John Wayne Gacy	11
+John Wesley	14
+John Williams	22
+John Wooden	11
+John the Baptist	15
+Johnny Cash	22
+Johnny Depp	11
+Joint	12
+Jon Kabat-Zinn	15
+Jon Postel	11
+Jon Stewart	16
+Jonas Salk	12
+Jonathan Edwards (theologian)	14
+Jonathan Swift	16
+Joni Mitchell	15
+Jordan	39
+Jorge Luis Borges	27
+Joseph Beuys	12
+Joseph Campbell	28
+Joseph Goebbels	20
+Joseph Haydn	14
+Joseph McCarthy	16
+Joseph Schumpeter	13
+Joseph Stalin	35
+Joseph Stiglitz	11
+Joss Whedon	25
+Joule	19
+Journalist	15
+Journey to the West	18
+Judaism	45
+Judgment of Paris (wine)	13
+Judo	16
+Judy Garland	20
+Jujutsu	12
+Jules Verne	18
+Julia Child	20
+Julia Roberts	12
+Julian Assange	17
+Julian calendar	15
+Julius Caesar	30
+Jumping the shark	20
+Juneteenth	15
+Jungian archetypes	12
+Jupiter	29
+Just-in-time compilation	15
+Justice	11
+Justice League	11
+Justin Bieber	23
+Juvenal	11
+Jyllands-Posten Muhammad cartoons controversy	18
+K-means clustering	14
+KGB	11
+KISS principle	58
+Kaaba	14
+Kabbalah	27
+Kabul	14
+Kahlil Gibran	13
+Kaiju	14
+Kairos	12
+Kaizen	29
+Kale	13
+Kali	11
+Kali Yuga	11
+Kamala Harris	18
+Kanban	18
+Kanji	16
+Kansas	15
+Kanye West	18
+Kardashev scale	15
+Karl Barth	12
+Karl Marx	48
+Karl Popper	28
+Karma	20
+Karnataka	19
+Karst	12
+Kashmir	18
+Katamari Damacy	11
+Katharine Hepburn	12
+Kathmandu	17
+Katyn massacre	13
+Kawaii	12
+Kayfabe	13
+Kazakhstan	28
+Kazimir Malevich	11
+Keanu Reeves	15
+Keira Knightley	13
+Keith Richards	11
+Kelvin	17
+Kent	13
+Kent State shootings	11
+Kentucky	19
+Kenya	40
+Kerala	22
+Ketogenic diet	20
+Ketosis	11
+Kettling	11
+Keyhole Markup Language	14
+Kidney	20
+Kiev	12
+Killing of George Floyd	25
+Kilowatt hour	11
+Kim Jong-un	15
+Kimchi	18
+Kind of Blue	11
+Kinect	17
+King Arthur	16
+King Crimson	12
+King Lear	14
+Kingdom of England	14
+Kingdom of Great Britain	15
+Kintsugi	12
+Kiribati	16
+Kitchen	19
+Knights Templar	15
+Knowledge	29
+Knowledge Graph	12
+Knowledge management	12
+Kobayashi Maru	13
+Kobe Bryant	13
+Kolkata	20
+Kombucha	22
+Kopi Luwak	14
+Korea	21
+Korean War	27
+Krampus	27
+Krav Maga	13
+Kris Kristofferson	12
+Krishna	22
+Kristallnacht	17
+Ku Klux Klan	25
+Kuala Lumpur	23
+Kuomintang	13
+Kurt Vonnegut	30
+Kuwait	26
+Kwanzaa	13
+Kyoto	15
+Kyoto Protocol	23
+Kyrgyzstan	23
+Köppen climate classification	11
+Kübler-Ross model	31
+Kōan	15
+L. Ron Hubbard	12
+LAMP (software bundle)	47
+LGBT	42
+LL Cool J	11
+LSD	15
+LaTeX	19
+Labor Day	32
+Labour Party (UK)	17
+Lady Gaga	26
+Lagrangian point	12
+Laissez-faire	15
+Lake Superior	11
+Lakshmi	16
+Lambda calculus	12
+Lambda-CDM model	12
+Lancashire	15
+Landscaping	17
+Langston Hughes	15
+Language	17
+Laos	25
+Laozi	27
+Lapis lazuli	12
+Laptop	21
+Large Hadron Collider	23
+Larry Ellison	12
+Larry Niven	11
+Larry Page	25
+Las Vegas	27
+Las Vegas Strip	16
+Las Vegas, Nevada	11
+Lascaux	11
+Laser	21
+Latin	81
+Latin America	23
+Latin language	34
+Latvia	41
+Lavandula	11
+Law	33
+Law of attraction (New Thought)	12
+Law of large numbers	13
+Law of the United States	11
+Law of the instrument	13
+Lawrence Summers	12
+Lawsuit	17
+Lawyer	34
+Lazy evaluation	11
+Lazy loading	11
+Le Corbusier	19
+Lead	17
+Leadership	16
+Leadership in Energy and Environmental Design	12
+Leaf	16
+League of Nations	20
+Lean manufacturing	25
+Lean startup	16
+Learn more	13
+Learned helplessness	17
+Learning	30
+Learning management system	15
+Lebanon	31
+Led Zeppelin	27
+Lee Harvey Oswald	12
+Leeds	17
+Leet	21
+Left-wing politics	11
+Legality of cannabis	12
+Legislature	11
+Lego	12
+Lehman Brothers	16
+Lemmy	12
+Lemon	21
+Lent	37
+Leo Tolstoy	22
+Leon Trotsky	18
+Leonard Bernstein	18
+Leonard Cohen	17
+Leonard Nimoy	15
+Leonardo DiCaprio	17
+Leonardo da Vinci	57
+Leonhard Euler	12
+Leonids	11
+Leopard	12
+Lernaean Hydra	12
+Les Misérables	11
+Les Paul	12
+Lesbian	14
+Levant	22
+Levenshtein distance	18
+Lewis Carroll	31
+Lewis and Clark Expedition	11
+Li Bai	11
+Liberalism	22
+Liberation Tigers of Tamil Eelam	12
+Liberia	21
+Libertarian socialism	12
+Libertarianism	23
+Liberty	11
+Libor scandal	12
+Library	15
+Library of Alexandria	16
+Library of Congress	29
+Library of Congress Control Number	12
+Libya	32
+Lichen	12
+Lidar	16
+Liechtenstein	20
+Lies, damned lies, and statistics	16
+Life	24
+Life expectancy	17
+Lifestyle (sociology)	12
+Light	22
+Light-emitting diode	37
+Light-year	11
+Lighthouse	11
+Lightning	20
+Lightweight Directory Access Protocol	16
+Lil Wayne	12
+Limbic system	13
+Limestone	13
+Lincolnshire	13
+Linda Ronstadt	11
+Lindsey Graham	12
+Linear regression	11
+Linen	11
+Linguistic relativity	18
+Linguistics	13
+Link rot	18
+Linked data	11
+LinkedIn	12
+Lint (software)	13
+Linus Pauling	13
+Linus Torvalds	31
+Linux	81
+Linux distribution	11
+Linux kernel	12
+Lion	16
+Lionel Messi	16
+Lipid	11
+Liposuction	15
+Lisbon	15
+Liskov substitution principle	15
+Lisp (programming language)	15
+List of HTTP header fields	11
+List of HTTP status codes	42
+List of ISO 639-1 codes	33
+List of Internet top-level domains	12
+List of Marvel Cinematic Universe films	11
+List of Presidents of the United States	13
+List of TCP and UDP port numbers	16
+List of U.S. states and territories by population	12
+List of United States cities by population	20
+List of XML and HTML character entity references	11
+List of best-selling music artists	12
+List of cognitive biases	55
+List of common misconceptions	13
+List of countries and dependencies by area	11
+List of countries and dependencies by population	12
+List of countries by GDP (PPP)	14
+List of countries by GDP (PPP) per capita	30
+List of countries by GDP (nominal)	34
+List of countries by GDP (nominal) per capita	15
+List of countries by Human Development Index	19
+List of countries by carbon dioxide emissions	16
+List of countries by exports	11
+List of countries by incarceration rate	13
+List of countries by income equality	15
+List of countries by intentional homicide rate	25
+List of countries by life expectancy	26
+List of countries by military expenditures	19
+List of countries by population	17
+List of countries by suicide rate	13
+List of dates predicted for apocalyptic events	11
+List of fallacies	19
+List of motor vehicle deaths in U.S. by year	12
+List of search engines	12
+List of social networking websites	22
+List of sovereign states	12
+List of suicide crisis lines	13
+List of tz database time zones	31
+Listed building	11
+Lithium-ion battery	23
+Lithuania	32
+Little Ice Age	20
+Liturgical year	12
+Live Aid	12
+Live action role-playing game	16
+Liver	14
+Liverpool	24
+Liverpool F.C.	14
+Livestock	12
+Load balancing (computing)	12
+Loan	24
+Local area network	20
+Loch Ness Monster	11
+Lockheed Martin	11
+Logic	21
+Logistic function	11
+Logistics	11
+Logo	16
+Logo (programming language)	11
+Logos	11
+Lolcat	15
+London	130
+London School of Economics	11
+London Underground	12
+Long Island	26
+Long Tail	14
+Long short-term memory	14
+Long tail	21
+Long-Term Capital Management	15
+Lord	16
+Lord Byron	18
+Lord of the Flies	19
+Lord's Prayer	15
+Lorem ipsum	13
+Los Angeles	107
+Los Angeles Times	24
+Los Angeles, California	15
+Loss aversion	15
+Lost (TV series)	14
+Lost Cause of the Confederacy	15
+Lottery	15
+Lou Reed	15
+Louis Armstrong	24
+Louis Pasteur	12
+Louis XIV of France	16
+Louis XVI of France	12
+Louisa May Alcott	12
+Louisiana	25
+Louisville, Kentucky	15
+Louvre	15
+Love	47
+Lua	15
+Lucifer	15
+Luddite	17
+Ludwig Mies van der Rohe	24
+Ludwig Wittgenstein	20
+Ludwig van Beethoven	30
+Luhn algorithm	14
+Lupita Nyong'o	13
+Lutheranism	22
+Luxembourg	41
+Lyme disease	13
+Lyndon B. Johnson	29
+Lysenkoism	12
+Lysergic acid diethylamide	14
+M	11
+M*A*S*H (TV series)	11
+M-Pesa	13
+M. C. Escher	16
+MAC address	17
+MD5	36
+MIDI	17
+MIME	17
+MIT License	52
+MMORPG	15
+MMR vaccine controversy	11
+MP3	37
+MPEG-4 AVC	13
+MPEG-4 Part 14	15
+MQTT	13
+MS-DOS	12
+MTV	27
+MUD	13
+MacGuffin	21
+MacGyver	20
+MacOS	22
+Macaron	11
+Macau	19
+Macbeth	12
+Machine	13
+Machine learning	57
+Machu Picchu	22
+Macintosh	18
+Mad Men	16
+Madagascar	23
+Madonna (entertainer)	25
+Madrid	31
+Mae West	11
+Magic: The Gathering	13
+Magna Carta	27
+Magnesium	16
+Magnetic resonance imaging	22
+Mahabharata	22
+Maharashtra	25
+Mahatma Gandhi	51
+Mahayana	11
+Mahmoud Ahmadinejad	14
+Maidenhead Locator System	13
+Maillard reaction	16
+Maimonides	11
+Main Page	401
+Maine	24
+Mainframe computer	12
+Maize	24
+Major League Baseball	25
+Major depressive disorder	19
+Maker culture	14
+Malala Yousafzai	18
+Malaria	26
+Malawi	16
+Malaysia	73
+Malaysia Airlines Flight 370	11
+Malcolm Gladwell	22
+Malcolm X	22
+Maldives	27
+Mali	21
+Malta	46
+Malware	46
+Mammal	21
+Man Ray	12
+Man-in-the-middle attack	45
+Management	15
+Manchester	26
+Manchester City F.C.	11
+Manchester United F.C.	15
+Manchuria	11
+Mandala	14
+Mandarin Chinese	14
+Mandatory Palestine	11
+Mandelbrot set	25
+Manga	41
+Manganese	12
+Mango	14
+Manhattan	44
+Manhattan Project	27
+Mania	11
+Manic Pixie Dream Girl	11
+Manila	13
+Manitoba	11
+Manufacturing	17
+Manuscript	12
+Many-worlds interpretation	20
+Mao Zedong	31
+MapReduce	15
+Maple	11
+Maple syrup	13
+Marathi language	13
+Marathon	14
+Marble	12
+Marc Andreessen	12
+Marcel Duchamp	18
+Marcel Proust	18
+March on Washington for Jobs and Freedom	14
+Marcus Aurelius	21
+Mardi Gras	14
+Margaret Atwood	20
+Margaret Mead	12
+Margaret Thatcher	25
+MariaDB	13
+Mariah Carey	16
+Marie Antoinette	18
+Marie Curie	21
+Marilyn Monroe	27
+Mario	13
+Mark Cuban	24
+Mark Rothko	18
+Mark Twain	63
+Mark Zuckerberg	51
+Markdown	56
+Market environment	43
+Market research	11
+Marketing	60
+Marketing strategy	11
+Markov chain	14
+Marlon Brando	11
+Marriage	41
+Mars	34
+Marseille	15
+Marshall Islands	11
+Marshall McLuhan	27
+Marshall Plan	22
+Martha Nussbaum	11
+Martial arts	13
+Martin Buber	16
+Martin Heidegger	21
+Martin Luther	45
+Martin Luther King Jr.	34
+Martin Luther King Jr. Day	11
+Martin Luther King, Jr.	57
+Martin Luther King, Jr. Day	12
+Martin Niemöller	18
+Martin Scorsese	22
+Martin Seligman	11
+Marvel Cinematic Universe	29
+Marvel Comics	38
+Marvel Universe	14
+Marvin Gaye	13
+Marxism	25
+Mary (mother of Jesus)	16
+Mary Pickford	13
+Mary Shelley	28
+Mary Sue	17
+Maryland	38
+Mashup (web application hybrid)	20
+Maslow's hierarchy of needs	122
+Mass	14
+Mass (liturgy)	12
+Mass Effect	13
+Mass media	23
+Massachusetts	41
+Massachusetts Institute of Technology	21
+Massage	15
+Massive open online course	45
+Massively multiplayer online game	20
+Massively multiplayer online role-playing game	22
+Master boot record	15
+Master of Business Administration	13
+Matcha	12
+Materialism	14
+Mathematics	44
+Matrix (mathematics)	12
+Matryoshka doll	19
+Matter	12
+Mattress	12
+Maui	12
+Maundy Thursday	13
+Maurice Merleau-Ponty	16
+Maurice Sendak	16
+Mauritania	12
+Mauritius	26
+Maus	12
+Max Planck	16
+Max Weber	24
+Maxwell's equations	14
+May Day	22
+May you live in interesting times	15
+Maya Angelou	28
+Maya calendar	11
+Maya civilization	17
+McCarthyism	30
+McDonald's	25
+Me Too movement	21
+Meaning of life	16
+Measurement	11
+Meat	13
+Mecca	19
+Median	12
+Medicaid	21
+Medical cannabis	14
+Medical device	11
+Medicare (United States)	15
+Medicine	23
+Medieval Warm Period	12
+Meditation	40
+Mediterranean Sea	35
+Mediterranean climate	12
+Mediterranean diet	11
+Mediumship	14
+Medusa	12
+Mein Kampf	11
+Mel Gibson	14
+Melanoma	11
+Melatonin	11
+Melbourne	33
+Meltdown (security vulnerability)	13
+Member of Parliament	16
+Member state of the European Union	17
+Meme	62
+Memento mori	12
+Memetics	17
+Memoization	17
+Memorial Day	45
+Memory	26
+Memory hole	12
+Mental disorder	24
+Mental health	22
+Mercedes-Benz	13
+Merkle tree	20
+Meryl Streep	15
+Mesh networking	12
+Mesopotamia	19
+Messiah	14
+Metabolic syndrome	11
+Metabolism	25
+Metadata	21
+Metal	19
+Metallica	21
+Metaphor	16
+Metaphysics	23
+Metastasis	15
+Metcalfe's law	27
+Meteor shower	11
+Methamphetamine	14
+Methane	13
+Method of loci	14
+Methodism	15
+Metre	12
+Metro-Goldwyn-Mayer	12
+Metroblogging	22
+Metropolitan Museum of Art	15
+Mexican Drug War	13
+Mexican Revolution	12
+Mexican War of Independence	12
+Mexican–American War	14
+Mexico	87
+Mexico City	20
+Miami	21
+Miami, Florida	11
+Michael (archangel)	15
+Michael Bloomberg	12
+Michael Crichton	11
+Michael Faraday	24
+Michael Jackson	36
+Michael Jordan	25
+Michael Phelps	13
+Michel Foucault	31
+Michel de Montaigne	15
+Michelangelo	38
+Michelle Obama	23
+Michigan	26
+Mick Jagger	16
+Mickey Mouse	19
+Microservices	13
+Microsoft	50
+Microsoft Excel	15
+Microsoft Office	13
+Microsoft PowerPoint	11
+Microsoft Windows	53
+Microsoft Word	21
+Mid-Autumn Festival	12
+Middle Ages	42
+Middle East	53
+Middle class	14
+Midwestern United States	14
+Migraine	12
+Mihaly Csikszentmihalyi	40
+Mike Pence	14
+Mike Tyson	13
+Mikhail Gorbachev	18
+Milan	16
+Milankovitch cycles	17
+Miles Davis	21
+Miley Cyrus	11
+Milgram experiment	42
+Military	15
+Military–industrial complex	12
+Milk	19
+Milky Way	26
+Millennials	36
+Millennium Development Goals	17
+Milton Friedman	23
+Milton Keynes	13
+Mind	29
+Mind map	33
+Mind uploading	11
+Mindfulness	15
+Minecraft	20
+Mineral	11
+Ming dynasty	13
+Minimalism	12
+Minimum viable product	52
+Mining	17
+Minneapolis	14
+Minnesota	36
+Minor (law)	12
+Minority Report (film)	20
+Minstrel show	13
+Mircea Eliade	15
+Mirror	11
+Mirror neuron	12
+Mississippi	23
+Mississippi River	18
+Missouri	25
+Mitch McConnell	13
+Mithra	11
+Mitochondrion	16
+Mitt Romney	28
+Mixed martial arts	14
+Mixin	12
+Mnemonic	16
+Mobile app	27
+Mobile device	15
+Mobile phone	48
+Moby-Dick	17
+Mochi	14
+Mock object	12
+Model-view-controller	11
+Model–view–controller	46
+Modernism	18
+Mohammad Reza Pahlavi	13
+Mohandas Karamchand Gandhi	21
+Moiré pattern	12
+Mojave Desert	14
+Mold	15
+Moldova	23
+Mona Lisa	14
+Monaco	16
+Monarch	11
+Monarch butterfly	13
+Money	37
+Moneyball	17
+Mongolia	20
+Monkey patch	12
+Monomyth	17
+Monopoly	12
+Monopoly (game)	11
+Monroe Doctrine	11
+Monsanto	18
+Monsoon	14
+Montana	18
+Monte Carlo method	29
+Montenegro	27
+Montessori education	12
+Montgomery Bus Boycott	12
+Montmartre	15
+Montreal	37
+Montserrat	13
+Monty Hall problem	26
+Monty Python	24
+Monty Python and the Holy Grail	11
+Moon	41
+Moore's law	79
+Moors	14
+Moral hazard	14
+Moral panic	11
+Morality	19
+Morgan le Fay	11
+Morocco	46
+Morrissey	13
+Morse code	19
+Mortality rate	14
+Mortgage loan	18
+Mosaic (web browser)	18
+Moscow	34
+Moses	34
+Mosquito	12
+Mother	18
+Mother Teresa	39
+Mother's Day	23
+Motion Picture Production Code	20
+Motivation	26
+Motorcycle	15
+Mount Everest	28
+Mount Kilimanjaro	13
+Mount Vesuvius	12
+Mountain	13
+Moving company	15
+Mozambique	19
+Mt. Gox	20
+Muammar Gaddafi	13
+Muay Thai	15
+Muddy Waters	12
+Mughal Empire	15
+Muhammad	29
+Muhammad Ali	25
+Muhammad Yunus	19
+Multi-factor authentication	38
+Multi-level marketing	25
+Multinational corporation	11
+Multiplayer online battle arena	11
+Multiple sclerosis	16
+Multiverse	19
+Mumbai	28
+Munich	34
+Munich massacre	11
+Municipality	11
+Murder	23
+Murphy's law	38
+Murray Rothbard	14
+Muscle	17
+Muscle memory	11
+Museum	11
+Mushroom	13
+Music	34
+Music genre	12
+Musical ensemble	13
+Musical film	11
+Musical theatre	12
+Musique concrète	12
+Muslim	49
+Muslim Brotherhood	13
+Mustafa Kemal Atatürk	24
+Mutation	15
+My Lai Massacre	11
+My Neighbor Totoro	11
+MySQL	23
+Myanmar	36
+Myers-Briggs Type Indicator	30
+Myers–Briggs Type Indicator	19
+Myocardial infarction	23
+Mystery Science Theater 3000	14
+Mysticism	18
+Mythology	11
+Möbius strip	20
+Māori people	15
+N,N-Dimethyltryptamine	12
+NASA	53
+NASA Clean Air Study	16
+NASCAR	11
+NATO	28
+NBC	26
+NIMBY	11
+NPR	12
+NTSC	13
+NVM Express	11
+Naan	16
+Naive Bayes classifier	11
+Namibia	30
+Nancy Pelosi	22
+Nanotechnology	13
+Naples	26
+Napoleon	30
+Napoleon Hill	12
+Napoleon III	13
+Napoleonic Wars	16
+Napster	11
+Narcissism	20
+Narcissistic personality disorder	27
+Narcissus (mythology)	11
+Narendra Modi	22
+Naruto	15
+Nas	12
+Nash equilibrium	18
+Nashville, Tennessee	21
+Nassau County, New York	34
+Nassim Nicholas Taleb	22
+Natalie Portman	11
+Nate Silver	16
+Nathaniel Hawthorne	11
+Nation	11
+National Basketball Association	21
+National Football League	31
+National Health Service	19
+National Hockey League	11
+National Institutes of Health	19
+National Novel Writing Month	11
+National Oceanic and Atmospheric Administration	13
+National Park Service	11
+National Register of Historic Places	26
+National Rifle Association	11
+National Security Agency	18
+National Trust for Places of Historic Interest or Natural Beauty	11
+National anthem	11
+Nationalism	20
+Native Americans in the United States	29
+Native advertising	12
+Natural and legal rights	13
+Natural environment	14
+Natural gas	12
+Natural language processing	27
+Natural law	14
+Natural number	12
+Natural selection	28
+Nature	25
+Nature versus nurture	13
+Naturism	13
+Naturopathy	11
+Nauru	12
+Nazareth	13
+Nazca Lines	12
+Nazi	14
+Nazi Germany	49
+Nazi Party	23
+Nazism	37
+NeXT	12
+Neal Stephenson	11
+Neanderthal	17
+Near field communication	25
+Near-field communication	11
+Nebraska	15
+Negativity bias	16
+Negligence	12
+Neil Armstrong	17
+Neil Gaiman	26
+Neil Young	14
+Neil deGrasse Tyson	23
+Nelson Mandela	33
+Neo-Nazism	13
+Neoconservatism	12
+Neodymium magnet	13
+Neoliberalism	21
+Neolithic	20
+Nepal	50
+Neptune	15
+Nero	14
+Nervous system	13
+Net Promoter	31
+Net neutrality	20
+Netflix	40
+Netherlands	101
+Netscape	20
+Network File System	15
+Network Time Protocol	15
+Network address translation	25
+Network effect	29
+Network neutrality	19
+Network-attached storage	18
+Neural network	12
+Neuro-linguistic programming	32
+Neuromancer	16
+Neuron	18
+Neuroplasticity	23
+Neuroscience	11
+Neurotransmitter	20
+Neutron star	11
+Nevada	31
+Neville Chamberlain	11
+New Age	20
+New Deal	20
+New Delhi	20
+New England	23
+New England Patriots	11
+New Hampshire	18
+New International Version	11
+New Jersey	57
+New Mexico	27
+New Orleans	30
+New South Wales	29
+New Testament	35
+New World Order (conspiracy theory)	17
+New Year	38
+New Year's Day	18
+New Year's Eve	19
+New Year's resolution	20
+New York	47
+New York (state)	66
+New York City	171
+New York Stock Exchange	19
+New York Times	27
+New Zealand	90
+Newark, New Jersey	13
+Newfoundland and Labrador	15
+News	20
+News aggregator	13
+News media	12
+Newspeak	18
+Newsweek	13
+Newt Gingrich	15
+Newton's law of universal gravitation	11
+Newton's laws of motion	20
+Niagara Falls	11
+Nicaragua	27
+Niccolò Machiavelli	18
+Nice	12
+Nicene Creed	11
+Nicholas II of Russia	11
+Nickel	12
+Nicolaus Copernicus	19
+Nicole Kidman	12
+Niels Bohr	23
+Niger	20
+Nigeria	47
+Nihilism	12
+Nike, Inc.	14
+Nikita Khrushchev	12
+Nikola Tesla	56
+Nine Inch Nails	12
+Nineteen Eighty-Four	74
+Nineteenth Amendment to the United States Constitution	12
+Ninja	11
+Nintendo	18
+Nintendo Entertainment System	25
+Nirvana	12
+Nirvana (band)	15
+Nitric oxide	15
+Nitrogen	14
+Nitrous oxide	16
+No Child Left Behind Act	11
+No Silver Bullet	15
+No true Scotsman	26
+NoSQL	24
+Noam Chomsky	44
+Nobel Peace Prize	22
+Nobel Prize	12
+Noble Eightfold Path	11
+Node.js	23
+Nokia	14
+Nomenklatura	11
+Non-Aligned Movement	12
+Non-aggression principle	12
+Non-disclosure agreement	13
+Non-governmental organization	28
+Non-player character	13
+Non-profit organization	13
+Nonprofit organization	14
+Nonviolent Communication	12
+Noodle	12
+Noosphere	14
+Norbert Wiener	11
+Norfolk Island	11
+Normal distribution	37
+Norman Mailer	12
+Norman Vincent Peale	11
+Normandy landings	18
+Norse mythology	12
+North Africa	19
+North America	61
+North American Free Trade Agreement	19
+North Carolina	40
+North Dakota	12
+North Korea	35
+North by Northwest	12
+Northern Hemisphere	13
+Northern Ireland	31
+Norway	73
+Not invented here	19
+Nova Scotia	13
+Novel	13
+November 2015 Paris attacks	15
+Nowruz	18
+Nuclear fusion	12
+Nuclear power	16
+Nuclear weapon	15
+Null hypothesis	11
+Nursing	16
+Nutrient	12
+Nutrition	11
+Nutritional yeast	11
+Nylon	12
+O	13
+OAuth	19
+OECD	15
+OKR	16
+OLED	12
+OODA loop	20
+OPEC	13
+OSI model	27
+Oak	24
+Oakland, California	15
+Obergefell v. Hodges	16
+Obesity	16
+Object-oriented programming	30
+Object-relational mapping	22
+Objective-C	13
+Objectivism (Ayn Rand)	17
+Oblique Strategies	13
+Observable universe	14
+Observer effect (physics)	12
+Observer pattern	14
+Obsessive–compulsive disorder	27
+Occam's razor	54
+Occupy Wall Street	20
+Occupy movement	21
+Oceania	14
+October Revolution	17
+Oculus Rift	11
+Odin	13
+Odyssey	25
+Office	13
+Office of Fair Housing and Equal Opportunity	18
+Office of Strategic Services	11
+Ohio	33
+Ohm's law	11
+Oklahoma	22
+Oklahoma City	11
+Oklahoma City bombing	23
+Oktoberfest	19
+Old English	20
+Old French	12
+Old Testament	36
+Old age	16
+Oligarchy	11
+Olive	12
+Olive oil	41
+Oliver Cromwell	16
+Olympic Games	20
+Oman	18
+Omega-3 fatty acid	29
+On the Internet, nobody knows you're a dog	16
+On the Origin of Species	19
+One Thousand and One Nights	15
+One-child policy	14
+Onion	22
+Online advertising	18
+Online casino	78
+Online gambling	34
+Online poker	20
+Online shopping	21
+Ontario	37
+Ontology	30
+Ontology (information science)	15
+Open Space Technology	13
+Open access	81
+Open data	15
+Open educational resources	19
+Open source	65
+Open standard	13
+Open-source hardware	11
+Open-source software	45
+OpenDocument	14
+OpenGL	11
+OpenID	22
+Opera	13
+Operating system	44
+Operation Aurora	11
+Operation Barbarossa	17
+Operation Gladio	20
+Operation Mockingbird	17
+Operation Northwoods	24
+Operation Paperclip	11
+Operations research	11
+Opinion polling for the next United Kingdom general election	11
+Opioid	14
+Opportunity cost	16
+Oprah Winfrey	26
+Optical character recognition	37
+Oracle Corporation	11
+Orange (fruit)	16
+Orange County, California	11
+Order of the British Empire	30
+Oregon	38
+Organic farming	11
+Organic food	14
+Organisation for Economic Co-operation and Development	17
+Organism	18
+Organization	16
+Orientalism	13
+Original equipment manufacturer	16
+Original sin	14
+Orion (constellation)	15
+Orion Nebula	15
+Orkney	11
+Orson Welles	22
+Orthodox Judaism	13
+Orwellian	15
+Osaka	13
+Osama bin Laden	22
+Oscar Niemeyer	11
+Oscar Wilde	42
+Osiris	16
+Oslo	14
+Osteoarthritis	11
+Osteoporosis	14
+Ottawa	15
+Otto von Bismarck	12
+Ottoman Empire	62
+Ouroboros	20
+Outliers (book)	17
+Output	11
+Outsourcing	11
+Overfitting	15
+Overton window	27
+Oxford	15
+Oxford English Dictionary	25
+Oxford University Press	17
+Oxygen	37
+Oxytocin	18
+Ozzy Osbourne	17
+P. T. Barnum	13
+PAL	17
+PBKDF2	20
+PBS	18
+PCI Express	11
+PCRE	133
+PDCA	13
+PDF	24
+PH	27
+PHP	46
+PID controller	22
+PMID (identifier)	14
+POSIX	13
+PRISM (surveillance program)	29
+PROTECT IP Act	21
+Pablo Picasso	42
+Pac-Man	17
+Pacific Northwest	13
+Pacific Ocean	35
+Pacific War	12
+PageRank	60
+Pain	28
+Painting	24
+Pair programming	16
+Pakistan	66
+Palau	12
+Pale Blue Dot	13
+Paleolithic diet	19
+Palestine	16
+Palestine Liberation Organization	12
+Pan European Game Information	14
+Panama	30
+Panama Canal	11
+Panama Papers	12
+Pandemic	21
+Pangaea	12
+Panic attack	12
+Panic of 1873	11
+Panopticon	24
+Panspermia	12
+Pantheism	12
+Pantheon, Rome	17
+Paper	18
+Paprika	18
+Papua New Guinea	17
+Paracetamol	12
+Paradigm shift	17
+Paradox of tolerance	12
+Paraguay	18
+Parallax	13
+Paramount Pictures	20
+Paranormal	11
+Parasympathetic nervous system	13
+Pareidolia	24
+Parent	16
+Parenting	18
+Pareto principle	77
+Paris	84
+Paris Agreement	25
+Paris Hilton	13
+Parkinson's disease	20
+Parkinson's law	23
+Parkour	20
+Parliament of the United Kingdom	17
+Parmigiano-Reggiano	17
+Parody	13
+Parthenon	11
+Partition of India	14
+Pasadena, California	15
+Pascal's Wager	14
+Passion (Christianity)	14
+Passover	23
+Passover Seder	12
+Patagonia	12
+Patent	17
+Patent troll	12
+Pathology	15
+Patient	14
+Patient Protection and Affordable Care Act	57
+Patriarchy	15
+Patriot Act	15
+Patron saint	17
+Patti Smith	13
+Paul Cézanne	11
+Paul Dirac	16
+Paul Gauguin	13
+Paul Klee	15
+Paul Krugman	11
+Paul McCartney	31
+Paul Newman	14
+Paul Robeson	12
+Paul the Apostle	19
+Paulo Coelho	14
+Pay per click	16
+Pay-per-click	12
+PayPal	17
+Payment	11
+Payment Card Industry Data Security Standard	19
+Pdf	12
+Peace	11
+Peak oil	30
+Peanut	13
+Peanut butter	11
+Peanuts	11
+Pedophilia	11
+Peer review	19
+Peer-to-peer	25
+Pennsylvania	54
+Pentagon Papers	18
+Pentecost	12
+People's Liberation Army	13
+People's Republic of China	23
+Peppermint	11
+Peranakan	11
+Percent-encoding	26
+Perception	21
+Percy Bysshe Shelley	22
+Performance indicator	15
+Periodic table	30
+Perl	20
+Permaculture	32
+Permian–Triassic extinction event	11
+Perseids	19
+Persephone	11
+Persian language	19
+Person	15
+Personal computer	35
+Personal development	14
+Personal digital assistant	11
+Personal injury lawyer	14
+Personally identifiable information	20
+Peru	38
+Pest control	23
+Pesticide	14
+Pet	11
+Pete Seeger	22
+Peter Drucker	46
+Peter Jackson	13
+Peter Principle	13
+Peter Singer	27
+Peter Thiel	19
+Peter principle	12
+Petra	13
+Petroleum	19
+Petronas Towers	11
+Phan Thi Kim Phuc	13
+Pharaoh	16
+Pharisees	11
+Pharmaceutical drug	11
+Phenomenology (philosophy)	12
+Phenotype	15
+Pheromone	12
+Philadelphia	45
+Philip Glass	16
+Philip K. Dick	23
+Philippine Amusement and Gaming Corporation	16
+Philippines	84
+Philosopher	16
+Philosophiæ Naturalis Principia Mathematica	12
+Philosophy	52
+Phishing	53
+Phoenicia	11
+Phoenix (mythology)	15
+Phoenix Program	11
+Phoenix, Arizona	21
+Phonograph	14
+Photograph	20
+Photographer	12
+Photography	30
+Photon	15
+Photosynthesis	22
+Phrenology	13
+Physical attractiveness	11
+Physical exercise	18
+Physical fitness	13
+Physical therapy	17
+Physician	26
+Physics	25
+Physiology	16
+Pi	22
+Pi Day	18
+Piano	27
+Picasso	12
+Pied Piper of Hamelin	17
+Pierogi	13
+Pierre Teilhard de Chardin	17
+Pierre-Auguste Renoir	12
+Piet Mondrian	20
+Piezoelectricity	12
+Pilates	20
+Pine	13
+Pingback	12
+Pink Floyd	29
+Pinot noir	15
+Pinterest	15
+Pinyin	33
+Pittsburgh	15
+Pixar	13
+Pizza	12
+Placebo	23
+Plagiarism	12
+Planet	17
+Planned obsolescence	15
+Plant	25
+Plantar fasciitis	12
+Plastic	21
+Plate tectonics	17
+Platform as a service	28
+Plato	56
+Plausible deniability	12
+PlayStation 2	12
+PlayStation 3	22
+PlayStation 4	22
+PlayStation Network	11
+PlayStation Portable	11
+PlayStation Vita	15
+Pledge of Allegiance	15
+Pleiades	14
+Pleistocene	15
+Pliny the Elder	23
+Plumber	15
+Plumbing	25
+Plutarch	18
+Pluto	12
+Plutocracy	15
+Pneumonia	14
+Podcast	47
+Podcasting	13
+Poe's law	14
+Poet	14
+Poetry	23
+Point of sale	11
+Point of view (literature)	12
+Poker	45
+Pokémon	16
+Pol Pot	12
+Poland	71
+Police	18
+Police officer	13
+Policy	15
+Polish language	19
+Political correctness	20
+Political corruption	13
+Political party	12
+Politician	18
+Politics	32
+Pollution	13
+Pollyanna	11
+Polyamory	18
+Polyester	14
+Polyethylene	12
+Polyethylene terephthalate	13
+Polymath	15
+Polymer	14
+Polymerase chain reaction	17
+Polymorphism (computer science)	12
+Polyphenol	12
+Polypropylene	17
+Polyurethane	18
+Polyvinyl chloride	14
+Pomodoro Technique	64
+Pompeii	15
+Pong	17
+Pontius Pilate	11
+Ponzi scheme	30
+Pop art	11
+Pop music	28
+Pope	15
+Pope Benedict XVI	20
+Pope Francis	14
+Pope John Paul II	21
+Popeye	15
+Popular culture	17
+Population density	13
+Populism	11
+Pork	12
+Pornography	11
+Portable Document Format	26
+Portable Network Graphics	37
+Portal (video game)	22
+Portland, Oregon	26
+Portmanteau	21
+Portugal	59
+Portuguese language	13
+Poseidon	12
+Positive psychology	22
+Post Office Protocol	14
+Post hoc ergo propter hoc	14
+Postmodernism	15
+Posttraumatic stress disorder	44
+Potassium	17
+Potato	23
+Potemkin village	12
+Pottery	14
+Pound sterling	12
+Poutine	14
+Poverty	25
+Power law	18
+Power over Ethernet	12
+Prague	17
+Prana	12
+Prayer	22
+Pre-Raphaelite Brotherhood	11
+Precautionary principle	18
+Prediction	12
+Predictive analytics	12
+Prefrontal cortex	11
+Pregnancy	25
+Premier League	18
+Presidency of George W. Bush	11
+President of the United States	78
+Presidential Medal of Freedom	16
+Pressure	14
+Presumption of innocence	12
+Pretty Good Privacy	21
+Pride and Prejudice	12
+Prime Minister of the United Kingdom	15
+Priming (psychology)	15
+Prince (musician)	36
+Prince Philip, Duke of Edinburgh	17
+Princeton University	20
+Principal component analysis	13
+Principality of Sealand	11
+Principle of least astonishment	14
+Principle of least privilege	19
+Printed circuit board	11
+Printing	13
+Printing press	13
+Prison	22
+Prisoner's dilemma	35
+Privacy policy	13
+Private network	14
+Privatization	11
+Probiotic	13
+Product (business)	13
+Productivity	12
+Professional	11
+Professor	12
+Programmable logic controller	12
+Programming language	14
+Progressive enhancement	11
+Progressivism	14
+Prohibition in the United States	16
+Project MKULTRA	11
+Project MKUltra	23
+Project for the New American Century	18
+Project management	17
+Prolog	12
+Prometheus	17
+Propaganda	28
+Property	17
+Property tax	11
+Proportional representation	12
+Proprietary software	11
+Proprioception	17
+Propylene glycol	12
+Prospect theory	17
+Prostate cancer	13
+Prostitution	11
+Protagonist	11
+Protein	42
+Protest	11
+Protestant	13
+Protestant Reformation	19
+Protestantism	18
+Proxy server	22
+Pruning	12
+Prussia	11
+Psalms	25
+Pseudorandom number generator	12
+Pseudoscience	22
+Psychoanalysis	16
+Psychogeography	11
+Psychokinesis	11
+Psychological projection	33
+Psychological warfare	11
+Psychologist	14
+Psychology	39
+Psychopathy	14
+Psychotherapy	16
+Ptolemy	15
+Pub	11
+PubMed Central	24
+PubMed Identifier	43
+Public domain	158
+Public health	14
+Public key certificate	15
+Public key infrastructure	17
+Public relations	25
+Public-key cryptography	39
+Publishing	20
+Publish–subscribe pattern	16
+Puella Magi Madoka Magica	11
+Puerto Rico	37
+Pulitzer Prize	17
+Pulp Fiction	11
+Pulse-width modulation	14
+Pumpkin	13
+Punctuated equilibrium	13
+Pune	17
+Punk rock	23
+Pupusa	12
+Purchasing power parity	16
+Purim	16
+Pussy Riot	12
+Pyotr Ilyich Tchaikovsky	11
+Pyramid scheme	12
+Pyrrhic victory	11
+Pythagoras	18
+Pythagorean theorem	14
+Python (programming language)	38
+QAnon	26
+QR Code	36
+QR code	49
+Qatar	30
+Qi	19
+Qigong	15
+Qing Dynasty	12
+Qing dynasty	14
+Quakers	19
+Qualia	12
+Quality of life	20
+Quality of service	15
+Quantitative easing	19
+Quantum computing	29
+Quantum entanglement	28
+Quantum mechanics	37
+Quantum superposition	11
+Quartz	24
+Quebec	31
+Queen (band)	19
+Queen Victoria	17
+Queens	15
+Queensland	20
+Quentin Tarantino	13
+Quetzalcoatl	14
+Quicksort	12
+Quincy Jones	14
+Quinoa	23
+Qur'an	14
+Quran	32
+R (programming language)	13
+R-value (insulation)	11
+RAID	20
+REST	33
+RFID	14
+RGB color model	16
+RMS Titanic	25
+RNA	17
+RSA (cryptosystem)	12
+RSS	114
+RSS (file format)	33
+RTFM	14
+Ra	11
+Rabbit	13
+Rabies	12
+Rabindranath Tagore	26
+Race and ethnicity in the United States Census	24
+Rachel Carson	14
+Racism	24
+Racketeer Influenced and Corrupt Organizations Act	14
+Radar	15
+Radio	27
+Radio frequency	12
+Radio-frequency identification	34
+Radiohead	15
+Rahm Emanuel	19
+Rail transport	11
+Rain	11
+Rainbow	12
+Rainbow table	14
+Rainer Maria Rilke	17
+Rajasthan	15
+Ralph Vaughan Williams	12
+Ralph Waldo Emerson	39
+Rama	12
+Ramadan	26
+Ramayana	23
+Ramen	16
+Ramones	16
+Rand Paul	16
+Random number generation	17
+Random-access memory	24
+Randomized controlled trial	12
+Ransomware	31
+Rape	15
+Rape culture	13
+Raphael	17
+Rapping	11
+Rapture	13
+Raspberry Pi	34
+Raster graphics	15
+Rate of return	11
+Raw image format	19
+Ray Bradbury	28
+Ray Charles	13
+Ray Dalio	15
+Ray Kroc	11
+Ray Kurzweil	25
+Raymond Chandler	19
+Reading (process)	20
+Read–eval–print loop	14
+Real estate	47
+Real estate broker	82
+Reality	14
+Reality television	15
+Really Simple Syndication	11
+Reason	12
+Receiver operating characteristic	17
+Recep Tayyip Erdoğan	15
+Recession	14
+Recipe	16
+Reciprocity (social psychology)	13
+Reconquista	13
+Record label	21
+Record producer	19
+Recording Industry Association of America	16
+Recruitment	11
+Recurrent neural network	11
+Recursion	14
+Recycling	24
+Red	14
+Red Army	16
+Red Sea	12
+Red dwarf	11
+Red herring	17
+Red pill and blue pill	13
+Reddit	11
+Redlining	13
+Redox	13
+Redshift	18
+Reductio ad absurdum	12
+Reductionism	12
+Reese Witherspoon	11
+Refraction	12
+Refrigerator	11
+Reggae	13
+Regression analysis	16
+Regression toward the mean	17
+Regular expression	62
+Regulatory capture	11
+Reichstag fire	11
+Reign of Terror	18
+Reiki	14
+Reinforcement learning	17
+Reinheitsgebot	11
+Reinhold Niebuhr	12
+Relational database	14
+Relational database management system	11
+Religion	47
+Religious text	12
+Rembrandt	25
+Remembrance Day	12
+Remote procedure call	18
+Remote viewing	11
+Renaissance	40
+Renewable energy	16
+Reno, Nevada	13
+Renting	11
+René Descartes	36
+René Magritte	13
+Repetitive strain injury	13
+Replication crisis	11
+Representational State Transfer	30
+Representational state transfer	78
+Republic	14
+Republic Day (India)	14
+Republic of Ireland	39
+Republic of Macedonia	20
+Republican Party (United States)	35
+Research	23
+Research and development	20
+Resin	13
+Resource Description Framework	22
+Respiratory system	11
+Responsive web design	50
+Restaurant	19
+Resurrection of Jesus	11
+Resveratrol	14
+Retail	20
+Retroactive continuity	12
+Return on investment	23
+Reuters	13
+Reverse Polish notation	12
+Reverse osmosis	14
+Revision control	16
+Revolutions per minute	12
+Revolver	11
+Rhetoric	20
+Rhine	11
+Rhizome	12
+Rhode Island	15
+Rhododendron	12
+Rhubarb	13
+Rhythm and blues	22
+Rice	17
+Richard Branson	19
+Richard Dawkins	38
+Richard Feynman	44
+Richard I of England	11
+Richard Matheson	11
+Richard Nixon	51
+Richard Stallman	19
+Richard Wagner	25
+Rickrolling	12
+Ridley Scott	19
+Right-wing politics	11
+Rihanna	15
+Ringo Starr	14
+Rio de Janeiro	17
+Rip Van Winkle	14
+Risk	15
+Ritual	13
+River Thames	19
+Road	12
+Roald Dahl	16
+Robert A. Heinlein	21
+Robert Browning	14
+Robert Burns	17
+Robert Byrd	11
+Robert Capa	12
+Robert Cialdini	20
+Robert De Niro	15
+Robert E. Howard	15
+Robert E. Lee	17
+Robert Frost	17
+Robert Graves	11
+Robert Hooke	13
+Robert Johnson	11
+Robert Louis Stevenson	15
+Robert Mueller	12
+Robert Mugabe	11
+Robert Plant	12
+Robert Redford	13
+Robert Schumann	11
+Robin Williams	24
+Roblox	14
+Robot	11
+Robots exclusion standard	16
+Rochester, New York	12
+Rock (geology)	23
+Rock and Roll Hall of Fame	19
+Rock and roll	26
+Rock music	60
+Rocky Mountains	13
+Rod Serling	11
+Roe v. Wade	35
+Roger Corman	15
+Roger Penrose	18
+Roguelike	12
+Role-playing game	31
+Rolling Stone	30
+Roman Catholic	25
+Roman Catholic Church	28
+Roman Emperor	12
+Roman Empire	49
+Roman Polanski	12
+Roman Republic	11
+Roman numerals	12
+Romance (love)	12
+Romani people	22
+Romania	59
+Romanticism	20
+Rome	43
+Romeo and Juliet	20
+Ron Paul	11
+Ronald Reagan	49
+Roof	17
+Rooney Rule	12
+Rootkit	11
+Rorschach test	19
+Rosa Parks	22
+Rose	11
+Rosemary	15
+Rosetta Stone	16
+Rosh Hashanah	17
+Roulette	25
+Roy Orbison	11
+Royal Air Force	24
+Royal Dutch Shell	14
+Royal Navy	28
+Royal Society	13
+Rss	14
+Rsync	20
+RuPaul's Drag Race	11
+Rubber duck debugging	14
+Rube Goldberg	15
+Rube Goldberg machine	19
+Ruby (programming language)	13
+Rudolf Steiner	24
+Rudy Giuliani	17
+Rudyard Kipling	25
+Rugby union	15
+Rule of law	11
+Rule of thirds	16
+Rumi	38
+Rupert Murdoch	27
+Rush Limbaugh	15
+Russia	120
+Russian Empire	24
+Russian Orthodox Church	15
+Russian language	41
+Russo-Japanese War	14
+Ruth Bader Ginsburg	22
+Rwanda	28
+Rwandan Genocide	14
+Réunion	15
+S	11
+S&P 500 Index	11
+S.H.I.E.L.D.	12
+S.M.A.R.T.	13
+S2CID (identifier)	11
+SCADA	11
+SHA-1	33
+SHA-2	46
+SMART criteria	43
+SMS	24
+SOAP	16
+SOLID	14
+SOLID (object-oriented design)	19
+SPARQL	12
+SQL	42
+SQL injection	27
+SRV record	12
+SSH File Transfer Protocol	12
+STL (file format)	12
+SWOT analysis	29
+Sabermetrics	17
+Sabra and Shatila massacre	12
+Saccharomyces cerevisiae	12
+Sacha Baron Cohen	13
+Saddam Hussein	21
+Saffron	13
+Sagittarius (constellation)	13
+Sagrada Família	15
+Sahara	16
+Sailor Moon	12
+Saint George	14
+Saint Kitts and Nevis	14
+Saint Lucia	14
+Saint Nicholas	19
+Saint Patrick	15
+Saint Patrick's Day	27
+Saint Paul, Minnesota	11
+Saint Peter	20
+Saint Petersburg	28
+Saint Vincent and the Grenadines	13
+Salem witch trials	19
+Sales	15
+Salman Khan	11
+Salman Rushdie	20
+Salt	22
+Salt (cryptography)	26
+Salt Lake City	15
+Salvador Dalí	33
+Salvation	11
+Salvia hispanica	11
+Sam Cooke	12
+Same origin policy	11
+Same-origin policy	13
+Same-sex marriage	18
+Samhain	23
+Samizdat	12
+Samoa	18
+Samsung	21
+Samuel Beckett	20
+Samuel Johnson	15
+Samuel Taylor Coleridge	13
+Samurai	14
+San Antonio	16
+San Diego	30
+San Francisco	64
+San Francisco Bay Area	15
+San Jose, California	12
+San Marino	11
+Sandbox	14
+Sandbox (computer security)	12
+Sandstone	11
+Sandy Hook Elementary School shooting	26
+Sanskrit	46
+Sanskrit language	13
+Santa Claus	31
+Santa Monica, California	13
+Sapphire	12
+Sarah Jessica Parker	12
+Sarah Palin	13
+Sarah Silverman	12
+Sarbanes–Oxley Act	17
+Sardinia	13
+Satan	30
+Satellite	14
+Satire	22
+Satoshi Nakamoto	33
+Saturday Night Live	13
+Saturn	21
+Saturnalia	19
+Saudi Arabia	46
+Scalability	15
+Scalable Vector Graphics	35
+Scandinavia	18
+Scarlett Johansson	11
+Schadenfreude	16
+Scheherazade	11
+Schengen Area	18
+Schindler's List	13
+Schizophrenia	20
+School	14
+Schrödinger equation	11
+Schrödinger's cat	42
+Schutzstaffel	12
+Science	36
+Science fiction	51
+Science fiction film	14
+Science, technology, engineering, and mathematics	20
+Scientific management	11
+Scientific method	49
+Scientific opinion on climate change	14
+Scientific racism	20
+Scientist	14
+Scientology	13
+Scopes Trial	19
+Scotland	59
+Scots language	13
+Scottish Highlands	11
+Scoville scale	21
+Screen printing	13
+Scrum (development)	17
+Scrum (software development)	25
+Scrypt	12
+Scuba diving	17
+Sculpture	17
+Scurvy	11
+Sean Connery	14
+Search engine marketing	16
+Search engine optimization	194
+Search engine results page	29
+Seasonal affective disorder	15
+Seattle	36
+Second	12
+Second Amendment to the United States Constitution	24
+Second Boer War	13
+Second Life	15
+Second Sino-Japanese War	13
+Second Temple	12
+Second Vatican Council	22
+Second World War	19
+Second law of thermodynamics	23
+Secret Santa	11
+Secular humanism	12
+Secularism	13
+Secure Digital	11
+Secure Shell	42
+Security	16
+Security Assertion Markup Language	14
+Security through obscurity	17
+Security-Enhanced Linux	22
+Sed	12
+Seed	15
+Seinfeld	15
+Selection bias	14
+Selective serotonin reuptake inhibitor	11
+Self-esteem	17
+Self-fulfilling prophecy	11
+Self-organization	11
+Selfie	19
+Semantic Web	25
+Sender Policy Framework	25
+Seneca the Younger	21
+Senegal	18
+Sense	14
+Sensor	14
+Seoul	22
+Separation of concerns	29
+Separation of powers	11
+September 11 attacks	62
+Septuagint	16
+Serbia	38
+Serendipity	17
+Serenity Prayer	28
+Sergei Eisenstein	13
+Sergei Prokofiev	17
+Sergei Rachmaninoff	11
+Sergey Brin	20
+Serial comma	11
+Series of tubes	12
+Serif	12
+Serotonin	29
+Server (computing)	22
+Server Message Block	17
+Server Name Indication	21
+Serverless computing	13
+Service	28
+Service-oriented architecture	27
+Sesame Street	13
+Session Initiation Protocol	14
+Seven Years' War	20
+Seven deadly sins	20
+Severe acute respiratory syndrome	19
+Severe acute respiratory syndrome coronavirus 2	18
+Seville	11
+Sex	12
+Sexism	11
+Sexual assault	11
+Sexual intercourse	24
+Sexual orientation	12
+Sexual revolution	11
+Seychelles	13
+Sgt. Pepper's Lonely Hearts Club Band	15
+Shabbat	15
+Shakers	14
+Shakespeare	13
+Shamanism	16
+Shanghai	22
+Shapefile	11
+Sharia	26
+Sharing economy	14
+Sharon Tate	12
+Shawarma	15
+Shebang (Unix)	17
+Sheep	12
+Shellshock (software bug)	12
+Shenzhen	11
+Shepard Fairey	13
+Sherlock (TV series)	11
+Sherlock Holmes	30
+Sheryl Sandberg	11
+Shia Islam	11
+Shigeru Miyamoto	11
+Shinkansen	14
+Shinto	11
+Ship of Theseus	15
+Shirley Bassey	11
+Shiva	34
+Shoe	16
+Shooting of Breonna Taylor	12
+Shooting of Michael Brown	17
+Shooting of Tamir Rice	14
+Shooting of Trayvon Martin	26
+Shopping mall	11
+Short film	13
+Short sale (real estate)	11
+Short story	19
+Shoshin	15
+Shrimp	15
+Shrove Tuesday	23
+Siberia	19
+Sic	23
+Sichuan pepper	11
+Sicily	22
+Sierra Leone	11
+Sigmund Freud	55
+Sikhism	12
+Sildenafil	17
+Silent Spring	13
+Silent film	11
+Silicon	14
+Silicon Valley	21
+Silk	16
+Silk Road	17
+Silver	17
+Silvio Berlusconi	13
+Simone de Beauvoir	12
+Simple Mail Transfer Protocol	51
+Simple Network Management Protocol	18
+Simplified Chinese characters	11
+Sin	17
+Singapore	89
+Singer-songwriter	11
+Singing	21
+Single (music)	14
+Single responsibility principle	34
+Single sign-on	22
+Single transferable vote	12
+Single-page application	29
+Singleton pattern	19
+Sinn Féin	11
+Sinterklaas	22
+Siri	12
+Sisyphus	23
+Six Degrees of Kevin Bacon	22
+Six Sigma	15
+Six degrees of separation	25
+Six-Day War	23
+Ska	13
+Skin	15
+Skull and Bones	13
+Skynet (Terminator)	32
+Skype	19
+Slash fiction	11
+Slavery	30
+Slavery in the United States	20
+Slavoj Žižek	15
+Sleep	16
+Sleep deprivation	12
+Sleeping Beauty	11
+Slender Man	13
+Slot machine	54
+Slovakia	43
+Slovenia	41
+Small business	17
+Smallpox	22
+Smartphone	44
+Smithsonian Institution	13
+Snake	15
+Snake oil	11
+Snapchat	14
+Snow Crash	12
+Soap opera	11
+Social Credit System	12
+Social Security (United States)	16
+Social bookmarking	202
+Social capital	23
+Social class	11
+Social constructionism	11
+Social contract	17
+Social engineering (security)	14
+Social media	88
+Social media marketing	28
+Social network	38
+Social network service	18
+Social networking service	18
+Social proof	20
+Social psychology	11
+Social science	11
+Socialism	26
+Society	21
+Society of Jesus	17
+Sociology	14
+Sockpuppet (Internet)	14
+Socrates	23
+Socratic method	14
+Sodium bicarbonate	20
+Soft power	11
+Software	43
+Software as a Service	12
+Software as a service	66
+Software design pattern	13
+Software release life cycle	19
+Soil	12
+Sojourner Truth	13
+Sokal affair	22
+Solar System	16
+Solar cell	13
+Solar energy	19
+Solar panel	17
+Solar power	17
+Solid-state drive	30
+Solomon	15
+Solomon Islands	14
+Solstice	11
+Somalia	20
+Somerset	16
+Songwriter	13
+Sonia Sotomayor	11
+Sonoran Desert	13
+Sony	21
+Soul	21
+Soul music	18
+Sound	18
+Source code	15
+South Africa	80
+South America	36
+South Asia	20
+South Australia	14
+South Carolina	26
+South China Sea	14
+South Dakota	15
+South India	15
+South Korea	85
+Southeast Asia	30
+Southern California	16
+Southern United States	32
+Southern strategy	20
+Southwestern United States	11
+Sovereign state	16
+Sovereignty	13
+Soviet Union	66
+Soy sauce	15
+Soybean	13
+Soylent Green	12
+Space	14
+Space Invaders	19
+Space Shuttle	11
+Space Shuttle Challenger disaster	20
+SpaceX	18
+Spacecraft	12
+Spaced repetition	15
+Spacetime	20
+Spain	111
+Spanish Civil War	15
+Spanish Steps	11
+Spanish flu	29
+Spanish language	51
+Spanish–American War	19
+Speaker of the United States House of Representatives	12
+Special relativity	19
+Special:FundraiserRedirector?utm source=donate&utm medium=sidebar&utm campaign=C13 en.wikipedia.org&uselang=en	26
+Special:Random	23
+Species	32
+Spectrogram	12
+Speculative fiction	11
+Speech recognition	12
+Speed of light	16
+Spice	16
+Spider-Man	24
+Spike Lee	13
+Spinal cord	11
+Spirit	18
+Spirituality	29
+Spock	15
+Spoon theory	13
+Sport	17
+Sport utility vehicle	23
+Sports betting	40
+Spotify	17
+Spring (season)	20
+Sputnik 1	15
+Spyware	16
+Squid	12
+Sri Lanka	48
+Sriracha sauce	16
+St. Louis	19
+Stainless steel	27
+Stan Lee	30
+Standard Model	19
+Standard deviation	29
+Stanford University	23
+Stanford marshmallow experiment	25
+Stanford prison experiment	18
+Stanley Kubrick	22
+Staphylococcus aureus	13
+Star	11
+Star Trek	33
+Star Trek: The Next Generation	31
+Star Trek: The Original Series	15
+Star Wars	51
+Star Wars (film)	13
+Star Wars Day	16
+Star Wars: The Force Awakens	11
+Starbucks	16
+Stargate SG-1	11
+Startup company	13
+Stasi	18
+State (polity)	18
+State of Palestine	15
+State school	13
+Staten Island	11
+Statistical classification	12
+Statistics	25
+Statue of Liberty	18
+Steam (software)	15
+Steam engine	11
+Steampunk	33
+Steel	20
+Steganography	12
+Stem cell	12
+Stephen Covey	14
+Stephen Fry	13
+Stephen Hawking	45
+Stephen Jay Gould	17
+Stephen King	40
+Stephen Sondheim	15
+Stereoscopy	12
+Steve Ballmer	12
+Steve Carell	11
+Steve Jobs	75
+Steve Wozniak	15
+Steven Pinker	17
+Steven Spielberg	38
+Stevia	12
+Stevie Wonder	21
+Sting (musician)	13
+Stock market	14
+Stockholm	19
+Stockholm syndrome	35
+Stoicism	24
+Stonehenge	19
+Stoneman Douglas High School shooting	11
+Stonewall riots	27
+Stop Online Piracy Act	48
+Stop motion	11
+Storytelling	18
+Strange Case of Dr Jekyll and Mr Hyde	12
+Strange Fruit	11
+Stranger Things	12
+Stranger in a Strange Land	13
+Strategic Defense Initiative	12
+Strategic lawsuit against public participation	11
+Strategic planning	11
+Strategy	11
+Strategy of tension	13
+Strategy pattern	11
+Straw man	35
+Streaming media	30
+Streisand effect	43
+Strength training	11
+String theory	24
+Stroke	20
+Strom Thurmond	14
+Stub	20
+Student	17
+Studio Ghibli	13
+Stupa	13
+Sturgeon's law	13
+Sturmabteilung	17
+Stuttgart	13
+Stuxnet	33
+Sub-Saharan Africa	11
+Subpages	13
+Subpages#How to create user subpages	11
+Subprime mortgage crisis	14
+Suburb	13
+Sudan	31
+Sudoku	11
+Suez Crisis	16
+Suffolk County, New York	37
+Sufism	25
+Sugar	30
+Sugarcane	11
+Suicide	27
+Sukkot	12
+Sulfur	15
+Sumatra	11
+Sun	56
+Sun Microsystems	16
+Sun Tzu	15
+Sun dog	11
+Sunday school	11
+Sunni Islam	12
+Super Bowl	31
+Super Mario Bros.	15
+Super Nintendo Entertainment System	14
+Superhero	15
+Superman	30
+Supernatural	19
+Supernova	17
+Supply	14
+Supply chain	11
+Support vector machine	15
+Supreme Court of the United States	32
+Surgery	18
+Suriname	17
+Surrealism	19
+Surrey	15
+Surveillance capitalism	15
+Survivalism	14
+Survivorship bias	23
+Susan B. Anthony	17
+Susan Sontag	14
+Sushi	17
+Sustainability	27
+Sustainable development	16
+Sustainable living	12
+Svalbard	13
+Swahili language	12
+Swami Vivekananda	13
+Swansea	11
+Swastika	17
+Sweden	72
+Sweet potato	14
+Swimming (sport)	11
+Swimming pool	16
+Swing (Java)	11
+Switzerland	100
+Sydney	39
+Sydney Opera House	11
+Sykes–Picot Agreement	20
+Sylvester Stallone	11
+Symbiosis	19
+Symbol	17
+Symbolic link	11
+Synapse	11
+Synchronicity	15
+Synesthesia	30
+Syntax	15
+Syria	55
+Syrian Civil War	15
+Syrian civil war	13
+System	18
+System on a chip	15
+Systemd	13
+Systems theory	16
+Systems thinking	13
+São Paulo	15
+Søren Kierkegaard	20
+T-shirt	28
+T. E. Lawrence	11
+T. S. Eliot	29
+TARDIS	15
+TED (conference)	15
+Tablespoon	11
+Tablet computer	12
+Taboo	11
+Tabula rasa	11
+Tacit knowledge	11
+Tadalafil	11
+Tag (metadata)	12
+Tag cloud	15
+Tahini	13
+Taiwan	52
+Taj Mahal	15
+Tajikistan	21
+Taliban	21
+Talmud	25
+Tamil Nadu	16
+Tamil language	17
+Tampa, Florida	20
+Tanakh	11
+Tang dynasty	12
+Tantra	13
+Tanzania	30
+Tao	17
+Tao Te Ching	21
+Taoism	23
+Tapas	14
+Tardigrade	16
+Target Corporation	13
+Tarot	15
+Tarzan	13
+Tasmania	11
+Taste	15
+Tattoo	12
+Tax	19
+Tax Cuts and Jobs Act of 2017	12
+Taxicab	155
+Taylor Swift	20
+Tbilisi	12
+Tea	18
+Tea Party movement	12
+Teacher	20
+Techengage	18
+Technical debt	27
+Technological singularity	63
+Technology	34
+Ted Bundy	12
+Ted Cruz	20
+Ted Kaczynski	15
+Ted Nelson	11
+Tel Aviv	17
+Telecommunication	12
+Telegraphy	14
+Teleology	15
+Telephone	19
+Television	67
+Television advertisement	13
+Television program	20
+Telnet	17
+Telomere	11
+Temperature	20
+Template documentation	44
+TemplateData	14
+Ten Commandments	20
+Tennessee	28
+Tennessee Williams	12
+Tennis	17
+Teotihuacan	13
+Terence McKenna	12
+Terminator 2: Judgment Day	12
+Termite	15
+Terra preta	11
+Terracotta Army	16
+Terroir	14
+Terrorism	21
+Terry Pratchett	18
+Test-driven development	55
+Testosterone	16
+Tetragrammaton	13
+Tetrahydrocannabinol	30
+Tetris	18
+Texas	69
+Text messaging	18
+Textile	11
+Tf–idf	19
+Thai language	14
+Thailand	70
+Thalidomide	13
+Thanksgiving	67
+Thanksgiving (United States)	24
+The Art of War	26
+The Avengers (2012 film)	18
+The Avengers (TV series)	12
+The Bahamas	19
+The Beach Boys	16
+The Beatles	74
+The Better Angels of Our Nature	12
+The Big Bang Theory	16
+The Big Short (film)	11
+The Birds (film)	11
+The Blitz	14
+The Bronx	12
+The Byrds	11
+The Chronicles of Narnia	17
+The Church of Jesus Christ of Latter-day Saints	17
+The Communist Manifesto	11
+The Da Vinci Code	17
+The Daily Show	12
+The Daily Telegraph	18
+The Dark Knight (film)	12
+The Death and Life of Great American Cities	15
+The Doors	15
+The Economist	11
+The Elements of Style	14
+The Emperor's New Clothes	23
+The Empire Strikes Back	13
+The End of History and the Last Man	22
+The Gambia	14
+The Garden of Earthly Delights	12
+The God Delusion	14
+The Godfather	21
+The Graduate	11
+The Great Game	11
+The Great Gatsby	30
+The Great Wave off Kanagawa	19
+The Guardian	33
+The Hague	15
+The Handmaid's Tale	16
+The Hitchhiker's Guide to the Galaxy	35
+The Hobbit	23
+The Holocaust	46
+The Hunger Games	14
+The Illuminatus! Trilogy	11
+The Incredibles	11
+The Independent	17
+The Innovator's Dilemma	12
+The Jackson 5	13
+The Jetsons	21
+The Last of Us	13
+The Legend of Zelda	18
+The Limits to Growth	15
+The Little Prince	11
+The Long Tail	13
+The Lord of the Rings	40
+The Lord of the Rings (film series)	12
+The Magical Number Seven, Plus or Minus Two	20
+The Man in the High Castle	12
+The Mandalorian	12
+The Matrix	41
+The Monkees	11
+The New York Times	58
+The New Yorker	15
+The Notorious B.I.G.	15
+The Nutcracker	15
+The Paradox of Choice	13
+The Pentagon	15
+The Persistence of Memory	11
+The Picture of Dorian Gray	17
+The Princess Bride (film)	11
+The Prisoner	12
+The Protocols of the Elders of Zion	16
+The Rolling Stones	40
+The Scream	19
+The Selfish Gene	15
+The Shadow	12
+The Shining (film)	11
+The Simpsons	28
+The Six Million Dollar Man	13
+The Smiths	14
+The Social Network	13
+The Sopranos	11
+The Sound of Music (film)	13
+The Star-Spangled Banner	18
+The Starry Night	16
+The Structure of Scientific Revolutions	12
+The Supremes	14
+The Terminator	14
+The Thing (1982 film)	14
+The Time Machine	13
+The Times	16
+The Tipping Point	17
+The Troubles	18
+The Twilight Zone	12
+The Velvet Underground	17
+The Walking Dead (TV series)	17
+The Wall Street Journal	12
+The Walt Disney Company	21
+The War of the Worlds	15
+The Washington Post	22
+The West Wing	16
+The Wheel of Time	12
+The Who	23
+The Wisdom of Crowds	21
+The Wizard of Oz (1939 film)	25
+The Wonderful Wizard of Oz	13
+The X-Files	19
+The medium is the message	12
+Thelonious Monk	18
+Theodicy	11
+Theodor Herzl	11
+Theodor W. Adorno	11
+Theodore Roosevelt	44
+Theology	18
+Theory	16
+Theory of Forms	11
+Theory of mind	19
+Theory of multiple intelligences	18
+Theory of relativity	18
+Theosophy	16
+Therapy	12
+Theravada	13
+There are known knowns	25
+Thiamine	11
+Thich Nhat Hanh	14
+Thin Lizzy	11
+Think tank	11
+Thinking, Fast and Slow	32
+Third culture kid	12
+Thirteenth Amendment to the United States Constitution	13
+Thirty Years' War	14
+Thomas Aquinas	21
+Thomas Carlyle	14
+Thomas Edison	38
+Thomas Henry Huxley	14
+Thomas Hobbes	25
+Thomas J. Watson	12
+Thomas Jefferson	52
+Thomas Kuhn	16
+Thomas Merton	12
+Thomas More	11
+Thomas Paine	13
+Thomas Sowell	12
+Thompson submachine gun	11
+Thought	29
+Thought experiment	12
+Thoughtcrime	16
+Thread (computing)	11
+Three Gorges Dam	14
+Three Laws of Robotics	28
+Three Mile Island accident	12
+Through the Looking-Glass	13
+Thurgood Marshall	16
+Tiananmen Square protests of 1989	29
+Tibet	24
+Tibetan Buddhism	11
+Tiger Woods	16
+TikTok	11
+Tim Berners-Lee	38
+Tim Burton	11
+Tim Cook	14
+Tim Kaine	11
+Time	20
+Time (magazine)	40
+Time management	14
+Time series	13
+Time travel	18
+Time zone	15
+Time-lapse photography	11
+Times Square	18
+Timothy Leary	24
+Timothy McVeigh	18
+Timur	11
+Tin	12
+Tinnitus	11
+Tissue (biology)	11
+Titan (moon)	11
+Titanic (1997 film)	17
+Titanium	13
+Title IX	12
+To Kill a Mockingbird	23
+Tobacco	14
+Togo	16
+Toilet	11
+Tokelau	11
+Tokyo	43
+Toluene	11
+Tom Brady	20
+Tom Cruise	17
+Tom Hanks	20
+Tom Jones (singer)	12
+Tom Lehrer	11
+Tom and Jerry	12
+Tomato	16
+Tonga	14
+Tongue	11
+Toni Morrison	13
+Tonne	11
+Tony Award	20
+Tony Blair	15
+Tony Hsieh	13
+Tony Robbins	15
+Top 40	12
+Top-level domain	19
+Tor (anonymity network)	24
+Torah	25
+Torii	11
+Tornado	11
+Toronto	45
+Torque	26
+Torture	16
+Totalitarianism	19
+Touchscreen	13
+Tour de France	13
+Tourette syndrome	11
+Tourism	17
+Towel Day	13
+Tower of Babel	13
+Town	14
+Toy	11
+Toyota	18
+Toyota Production System	11
+Trackback	11
+Trade union	24
+Trademark	21
+Traditional Chinese characters	12
+Traditional Chinese medicine	19
+Traffic collision	16
+Tragedy of the commons	38
+Trail of Tears	18
+Trans fat	11
+Trans-Pacific Partnership	16
+Transceiver	16
+Transcendental Meditation	12
+Transclusion	45
+Transformer	13
+Transgender	20
+Transhumanism	29
+Transistor	18
+Translation	11
+Transmedia storytelling	14
+Transmission (mechanics)	15
+Transmission Control Protocol	35
+Transport	12
+Transport Layer Security	112
+Transylvania	16
+Travel	20
+Travelling salesman problem	14
+Treason	12
+Treaty of Versailles	17
+Tree	27
+Trent Reznor	11
+Trevi Fountain	15
+Triangle Shirtwaist Factory fire	12
+Trickle-down economics	11
+Trie	11
+Trinidad and Tobago	21
+Trinity	26
+Trinity study	13
+TripAdvisor	19
+Trojan Horse	11
+Trojan War	13
+Troll (Internet)	32
+Trolley problem	29
+Tropical cyclone	13
+Troy	11
+Truck	12
+Truman Capote	11
+Truth	32
+Truthiness	16
+Tryptophan	12
+Tsunami	24
+Tuberculosis	19
+Tuckman's stages of group development	13
+Tucson, Arizona	12
+Tulip mania	26
+Tulsa race riot	12
+Tunguska event	15
+Tunisia	27
+Tupac Shakur	15
+Turducken	15
+Turin	11
+Turing completeness	12
+Turing machine	19
+Turing test	52
+Turkey	82
+Turkish language	21
+Turkmenistan	12
+Turmeric	25
+Turtles all the way down	15
+Tuscany	14
+Tuskegee syphilis experiment	16
+Tutankhamun	15
+Twelve-step program	14
+Twilight (series)	11
+Twin Peaks	18
+Twitter	89
+Two-factor authentication	13
+Type Ia supernova	11
+Typography	13
+U.S. Route 66	13
+U.S. state	47
+U2	25
+UEFA Champions League	11
+UK	29
+UK Singles Chart	16
+UNESCO	47
+UNICEF	11
+URL	31
+US Airways Flight 1549	15
+USA	29
+USA PATRIOT Act	17
+USA Today	12
+USB	27
+USB flash drive	18
+UTC	17
+UTF-8	22
+Ubuntu (philosophy)	11
+Uganda	23
+Ukraine	59
+Ukrainian language	13
+Ultimate (sport)	12
+Ultrasound	15
+Ultraviolet	40
+Ulysses (novel)	18
+Ulysses S. Grant	19
+Umami	27
+Umberto Eco	17
+Uncanny valley	38
+Uncertainty principle	31
+Uncle Tom's Cabin	16
+Unconference	53
+Unconscious mind	12
+Underground Railroad	15
+Understanding	13
+Unicode	36
+Unified Extensible Firmware Interface	12
+Unified Modeling Language	18
+Uniform Resource Identifier	15
+Uniform Resource Locator	21
+Unilever	11
+Unincorporated area	13
+Unintended consequences	11
+Union Army	11
+Unit testing	23
+Unite the Right rally	16
+United Arab Emirates	50
+United Kingdom	199
+United Kingdom of Great Britain and Ireland	11
+United Nations	67
+United Nations General Assembly	11
+United Nations Human Rights Council	13
+United States	415
+United States Air Force	24
+United States Armed Forces	19
+United States Army	26
+United States Bill of Rights	27
+United States Capitol	13
+United States Census Bureau	23
+United States Congress	37
+United States Constitution	51
+United States Declaration of Independence	49
+United States Department of Agriculture	12
+United States Department of Defense	21
+United States Department of Justice	11
+United States Department of State	13
+United States Environmental Protection Agency	17
+United States Geological Survey	12
+United States House of Representatives	37
+United States Marine Corps	20
+United States Navy	36
+United States Postal Service	18
+United States Secretary of Defense	12
+United States Secretary of State	17
+United States Senate	30
+United States dollar	34
+United States of America	19
+United States presidential election, 2000	12
+United States presidential election, 2008	13
+United States presidential election, 2016	15
+Unity (game engine)	26
+Universal Declaration of Human Rights	21
+Universal Pictures	11
+Universal Plug and Play	12
+Universal Serial Bus	15
+Universal Studios	12
+Universally unique identifier	27
+Universe	29
+University	18
+University of California, Berkeley	14
+University of Cambridge	19
+University of Chicago	14
+University of Oxford	23
+Unix	22
+Unix philosophy	13
+Unix time	36
+Unmanned aerial vehicle	26
+Unschooling	15
+Upanishads	17
+Uranium	11
+Uranus	12
+Urban area	11
+Urban planning	16
+Urban sprawl	12
+Ursula K. Le Guin	11
+Uruguay	30
+Usage share of web browsers	14
+Usain Bolt	12
+Useful idiot	12
+Usenet	34
+User (computing)	12
+User Datagram Protocol	24
+User agent	18
+User experience	18
+User experience design	14
+User interface	31
+User story	14
+Utah	29
+Utilitarianism	19
+Utopia	11
+Uzbekistan	20
+V for Vendetta	13
+V for Vendetta (film)	12
+V6 engine	19
+V8 engine	15
+VHF	16
+VHS	20
+Vaccination	12
+Vaccine	11
+Vacuum	14
+Valentine's Day	61
+Value-added tax	12
+Vampire	15
+Van Morrison	13
+Vancouver	23
+Vandana Shiva	12
+Vannevar Bush	11
+Vanuatu	12
+Varanasi	16
+Various	55
+Vatican City	20
+Vaudeville	21
+Vector graphics	21
+Vedanta	12
+Vedas	17
+Veganism	25
+Vegetable	21
+Vegetable oil	12
+Vegetarianism	17
+Vehicle	13
+Vehicle identification number	11
+Vehicle insurance	13
+Velocity	12
+Velvet Revolution	13
+Venezuela	38
+Venice	32
+Venn diagram	12
+Venture capital	25
+Venus	23
+Venus of Willendorf	11
+Verifiability	16
+Vermont	13
+Vertebral column	11
+Veterans Day	23
+Vi	11
+Vice President of the United States	19
+Vichy France	13
+Victor Hugo	26
+Victoria (Australia)	12
+Victorian era	35
+Video	14
+Video game	33
+Video game console	15
+Video game developer	12
+Video game publisher	11
+Vienna	33
+Vietnam	55
+Vietnam War	58
+Vikings	13
+Viktor Frankl	15
+Vim (text editor)	15
+Vincent Price	12
+Vincent van Gogh	30
+Vinegar	26
+Vint Cerf	23
+Viola Davis	12
+Violence	11
+Violin	13
+Vipassanā	14
+Viral marketing	12
+Virginia	37
+Virginia Woolf	24
+Virtual machine	26
+Virtual private network	69
+Virtual private server	22
+Virtual reality	34
+Virtualization	12
+Virtue	14
+Virus	22
+Vishnu	28
+Visible spectrum	11
+Visual novel	11
+VisualEditor	14
+Vitalik Buterin	14
+Vitamin	18
+Vitamin A	22
+Vitamin B12	14
+Vitamin C	28
+Vitamin D	19
+Vitamin E	13
+Vitruvian Man	19
+Vladimir Lenin	26
+Vladimir Nabokov	15
+Vladimir Putin	41
+Voice over IP	29
+Volatile organic compound	18
+Volatility, uncertainty, complexity and ambiguity	21
+Volcano	20
+Volkswagen	15
+Volkswagen Beetle	12
+Volt	11
+Voltage	24
+Voltaire	26
+Vomiting	13
+Von Neumann architecture	11
+Voronoi diagram	18
+Voting Rights Act of 1965	16
+Voyager 1	17
+Voyager Golden Record	11
+Voyager program	14
+Voynich manuscript	14
+Vulgate	13
+W. B. Yeats	12
+W. E. B. Du Bois	24
+W. Edwards Deming	25
+W. H. Auden	18
+WALL-E	11
+WAV	12
+WYSIWYG	35
+Wabi-sabi	36
+Waco siege	18
+Wahhabism	15
+Waiting for Godot	17
+Walden	13
+Wales	34
+Walkman	14
+Wall Street	25
+Wall Street Crash of 1929	14
+Wallpaper (computing)	32
+Walmart	19
+Walt Disney	35
+Walt Disney World	11
+Walt Whitman	20
+Walter Benjamin	11
+Walter Cronkite	12
+Walter Scott	12
+WannaCry ransomware attack	25
+War	22
+War in Afghanistan (2001–present)	22
+War of 1812	28
+War on Terror	15
+Warhammer 40,000	13
+Warner Bros.	16
+Warner Bros. Records	15
+Warren Buffett	48
+Warren Commission	12
+Wars of the Roses	12
+Warsaw	21
+Washington (state)	26
+Washington Post	12
+Washington, D.C.	58
+Wassily Kandinsky	18
+Waste management	12
+Wat Pho	12
+Watchmen	17
+Water	55
+Water damage	21
+Water heating	12
+Waterboarding	11
+Waterfall model	31
+Watergate scandal	25
+Waterproofing	20
+Watt	18
+Wavelength	15
+Wave–particle duality	12
+Wayback Machine	32
+Wayne Dyer	11
+We are the 99%	14
+Wealth	14
+Wealth management	24
+Weapon of mass destruction	11
+Weather	12
+Web 2.0	66
+Web application	25
+Web browser	33
+Web colors	13
+Web conferencing	11
+Web crawler	21
+Web design	35
+Web development	11
+Web feed	12
+Web hosting service	30
+Web page	18
+Web scraping	15
+Web search engine	23
+Web server	14
+Web service	12
+Web widget	18
+WebDAV	13
+WebGL	18
+WebKit	12
+WebRTC	13
+WebSocket	25
+Website	74
+Wedding	13
+Wedding photography	11
+Weight loss	24
+Weimar Republic	13
+Welfare	12
+Welsh language	12
+Wendell Berry	15
+Werner Heisenberg	11
+Wernher von Braun	12
+West Africa	18
+West Bengal	14
+West Germany	15
+West Side Story	13
+West Virginia	18
+Westboro Baptist Church	24
+Western (genre)	14
+Western Australia	18
+Western Europe	17
+Western culture	19
+Western world	37
+Westminster Abbey	12
+Whac-A-Mole	11
+Whale shark	12
+Whataboutism	11
+WhatsApp	28
+Where the Wild Things Are	16
+White House	32
+White elephant gift exchange	14
+White flight	11
+White privilege	13
+Whitney Houston	17
+Wi-Fi	40
+Wicca	15
+Wicked problem	26
+Widgets	17
+Wii	22
+Wiki	126
+WikiLeaks	18
+Wikimedia Foundation	13
+Wikipedia	71
+Wikipedia:About	15
+Wikipedia:Avoid weasel words	13
+Wikipedia:Citation needed	188
+Wikipedia:Citing sources	25
+Wikipedia:Citing sources#Inline citations	11
+Wikipedia:Contact us	51
+Wikipedia:Copyrights	17
+Wikipedia:Disambiguation	12
+Wikipedia:General disclaimer	14
+Wikipedia:IPA for English	23
+Wikipedia:IPA for English#Key	14
+Wikipedia:Identifying reliable sources	16
+Wikipedia:Link rot	24
+Wikipedia:Manual of Style	15
+Wikipedia:Media help	21
+Wikipedia:Neutral point of view	13
+Wikipedia:No original research	11
+Wikipedia:Notability	14
+Wikipedia:Please clarify	21
+Wikipedia:Pronunciation respelling key	18
+Wikipedia:Stub	35
+Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License	120
+Wikipedia:Text of the GNU Free Documentation License	45
+Wikipedia:Too long; didn't read	11
+Wikipedia:Verifiability	43
+Wikipedia:Verifiability#Burden of evidence	12
+Wildcard character	41
+Wilhelm II, German Emperor	19
+Wilhelm Reich	16
+Wilhelm scream	11
+Will Smith	15
+Willem de Kooning	13
+William Blake	25
+William Gibson	21
+William Herschel	14
+William Howard Taft	14
+William III of England	12
+William James	30
+William Jennings Bryan	11
+William Makepeace Thackeray	14
+William McKinley	18
+William Morris	20
+William Randolph Hearst	14
+William S. Burroughs	14
+William Shakespeare	71
+William Wordsworth	12
+William the Conqueror	12
+Wind power	11
+Window	17
+Windows 10	13
+Windows 8	13
+Windows 95	13
+Windows Vista	13
+Windows XP	17
+Wine	36
+Wine tasting descriptors	21
+Winnie-the-Pooh	15
+Winston Churchill	48
+Winter War	12
+Winter solstice	33
+Wisconsin	21
+Wisdom	17
+Wolfgang Amadeus Mozart	43
+Woman	11
+Women in Refrigerators	11
+Women's rights	19
+Wonder Woman	17
+Wood	21
+Wood flooring	11
+Woodrow Wilson	36
+Woodstock	13
+Woody Allen	20
+Woody Guthrie	11
+Word	12
+WordPress	59
+Words to watch#Unsupported attributions	17
+Workers' compensation	12
+Works Progress Administration	20
+Work–life balance	11
+World	19
+World Bank	16
+World Health Organization	44
+World Heritage Site	43
+World Trade Organization	12
+World War I	121
+World War II	211
+World War II casualties	12
+World Wide Web	63
+World Wide Web Consortium	11
+World economy	15
+World energy consumption	12
+World of Warcraft	18
+World population	21
+World's Columbian Exposition	15
+Wright brothers	21
+Writer	25
+Writer's block	12
+Writing	45
+Wu wei	11
+Wuhan	13
+Wyatt Earp	11
+Wyoming	20
+X Window System	18
+X-Men	17
+X-ray	16
+X.509	29
+XML	49
+XMPP	19
+Xbox 360	18
+Xbox One	12
+Xi Jinping	13
+Xinjiang	11
+YAML	19
+Yahoo!	27
+Yahweh	16
+Yale University	19
+Yam (vegetable)	11
+Yasser Arafat	12
+Year 2000 problem	19
+Year Without a Summer	11
+Yeast	14
+Yellow fever	11
+Yellow journalism	18
+Yellowstone National Park	11
+Yelp	19
+Yemen	25
+Yes (band)	11
+Yiddish language	14
+Yin and yang	37
+Yoga	56
+Yoga Sutras of Patanjali	15
+Yogi Berra	13
+Yoko Ono	14
+Yom Kippur	18
+Yom Kippur War	15
+Yorkshire	11
+YouTube	61
+Yule	15
+Yunnan	13
+Yuval Noah Harari	12
+ZFS	17
+ZX Spectrum	16
+Za'atar	11
+Zagreb	11
+Zaha Hadid	11
+Zambia	22
+Zanzibar	11
+Zbigniew Brzezinski	11
+Zeitgeist	12
+Zen	16
+Zen and the Art of Motorcycle Maintenance	15
+Zeus	31
+Zimbabwe	29
+Zinc	19
+Zine	11
+Zionism	16
+Zodiac	17
+Zombie	13
+Zone of proximal development	11
+Zoroastrianism	16
+Émile Durkheim	11
+Ötzi	12
